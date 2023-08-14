@@ -26,7 +26,6 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 </div>
 
 ## Projeto de Bolsa Estágio - CompassUOL 
-<img src="https://conteudo.imguol.com.br/c/home/layout/vueland/icons/brand/uol-logo-full.svg?v5" title="LaTeX" alt="LaTeX" width="40" heght="40"/>&nbsp;
 
 - [x] [Sprint 1](Sprint%201/README.md)
 - [ ] [Sprint 2](Sprint%202/README.md)
