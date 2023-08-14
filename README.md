@@ -35,10 +35,6 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 - [ ] [Sprint 8](Sprint%208/README.md)
 - [ ] [Sprint 9](Sprint%209/README.md)
 - [ ] [Sprint 10](Sprint%2010/README.md)
----
-Curso: Git e GitHub
-
-No decorrer do curso de Git e GitHub, adquiri um profundo entendimento sobre sistemas de controle de versão e como eles podem ser aplicados de maneira eficaz no desenvolvimento de software. Aprendi a usar o Git como uma ferramenta essencial para acompanhar e gerenciar as mudanças no código-fonte de projetos. Além disso, compreendi a importância do GitHub como uma plataforma de hospedagem de repositórios remotos e suas funcionalidades colaborativas. Comecei o curso utilizando do GitBash, e agora para o final pratiquei utilizando do VsCode.
 
 ---
 ## Desafio
