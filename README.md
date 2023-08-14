@@ -22,15 +22,16 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" heght="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" heght="40"/>&nbsp;
 </div>
-
+---
 ## 🔥Projeto de Bolsa Estágio - CompassUOL 
+---
 
 - [x] [Sprint 1](Sprint%201/README.md)
 
   - Curso: Git e Github do básico ao avançado
   
   - Curso: Linux para Desenvolvedores
-    
+
 - [ ] [Sprint 2](Sprint%202/README.md)
 - [ ] [Sprint 3](Sprint%203/README.md)
 - [ ] [Sprint 4](Sprint%204/README.md)
