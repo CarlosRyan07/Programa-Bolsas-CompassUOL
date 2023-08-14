@@ -1,4 +1,4 @@
-## Sprint 1
+## ⭐Sprint 1
 
 ---
 - [x] Curso: Git e Github do básico ao avançado (c/ gits Github Pages)
