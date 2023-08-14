@@ -23,7 +23,7 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" heght="40"/>&nbsp;
 </div>
 
-## Projeto de Bolsa Estágio - CompassUOL 
+## 🔥Projeto de Bolsa Estágio - CompassUOL 
 
 - [x] [Sprint 1](Sprint%201/README.md)
 - [ ] [Sprint 2](Sprint%202/README.md)
