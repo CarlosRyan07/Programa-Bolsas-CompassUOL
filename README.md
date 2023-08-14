@@ -5,7 +5,7 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 - 🙋‍♂️Meu nome é Carlos Ryan, e é um prazer compartilhar um pouco sobre mim. Atualmente, residente na cidade de Serra Branca
 - 🧑‍💻Sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB), onde estou cursando o 4° período.
 - 📚Minha paixão e um pouco de masoquismo da minha parte(e acho que outros programadores compartilham dessa opinião, tendo em vistas os estresses proveniente da nossa aréa 😅) pela tecnologia e programação tem me motivado a explorar diversos aspectos do mundo digital.
-- 📧E-mail para contato: [carlosryan.profissional@gmail.com](carlosryan.profissional@gmail.com)
+- 📧E-mail para contato: [carlosryan.profissional@gmail.com](https://mail.google.com/mail/u/0/?tab=rm&ogbl)
 
 ---
 ## 🛠️ Linguagens e Ferramentas:
