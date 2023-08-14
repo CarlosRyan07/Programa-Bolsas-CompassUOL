@@ -26,6 +26,11 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 ## 🔥Projeto de Bolsa Estágio - CompassUOL 
 
 - [x] [Sprint 1](Sprint%201/README.md)
+
+  - Curso: Git e Github do básico ao avançado
+  
+  - Curso: Linux para Desenvolvedores
+    
 - [ ] [Sprint 2](Sprint%202/README.md)
 - [ ] [Sprint 3](Sprint%203/README.md)
 - [ ] [Sprint 4](Sprint%204/README.md)
