@@ -4,11 +4,10 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 
 - 🙋‍♂️Meu nome é Carlos Ryan, e é um prazer compartilhar um pouco sobre mim. Atualmente, residente na cidade de Serra Branca
 - 🧑‍💻Sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB), onde estou cursando o 4° período.
-
--📚Minha paixão e um pouco de masoquismo da minha parte(e acho que outros programadores compartilham dessa opinião, tendo em vistas os estresses proveniente da nossa aréa 😅) pela tecnologia e programação tem me motivado a explorar diversos aspectos do mundo digital. 
+- 📚Minha paixão e um pouco de masoquismo da minha parte(e acho que outros programadores compartilham dessa opinião, tendo em vistas os estresses proveniente da nossa aréa 😅) pela tecnologia e programação tem me motivado a explorar diversos aspectos do mundo digital. 
 
 ---
-##🛠️ Linguagens e Ferramentas:
+## 🛠️ Linguagens e Ferramentas:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" heght="40"/>&nbsp;
@@ -26,7 +25,9 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX" alt="LaTeX" width="40" heght="40"/>&nbsp;
 </div>
 ---
-## Projeto de Bolsa Estágio - CompassUOL ![UOL](https://conteudo.imguol.com.br/c/home/layout/vueland/icons/brand/uol-logo-full.svg?v5)
+
+## Projeto de Bolsa Estágio - CompassUOL 
+<img src="https://conteudo.imguol.com.br/c/home/layout/vueland/icons/brand/uol-logo-full.svg?v5" title="LaTeX" alt="LaTeX" width="40" heght="40"/>&nbsp;
 
 - [x] [Sprint 1](Sprint%201/README.md)
 - [ ] [Sprint 2](Sprint%202/README.md)
@@ -38,3 +39,8 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 - [ ] [Sprint 8](Sprint%208/README.md)
 - [ ] [Sprint 9](Sprint%209/README.md)
 - [ ] [Sprint 10](Sprint%2010/README.md)
+
+## Desafio
+
+1. [Desafio Final](Desafio/README.md)
+
