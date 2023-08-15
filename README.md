@@ -27,6 +27,14 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 ## 🔥Projeto de Bolsa Estágio - CompassUOL 
 ---
 
+### Squad 2
+
+- Carlos Ryan De Sousa Pequeno
+- Carlos Eduardo Alves De Melo Junior
+- Elizama Nonato Izidorio
+- Leotino Alfredo De Melo Madruga
+- Pedro Castilhos Da Rosa
+
 - [x] [Sprint 1](Sprint%201/README.md)
 
   - Curso: Git e Github do básico ao avançado
