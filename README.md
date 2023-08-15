@@ -35,6 +35,7 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 - Leotino Alfredo De Melo Madruga
 - Pedro Castilhos Da Rosa
 
+---
 
 - [x] [Sprint 1](Sprint%201/README.md)
 
