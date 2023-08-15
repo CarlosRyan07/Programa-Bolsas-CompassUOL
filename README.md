@@ -7,7 +7,12 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 - 📚Minha paixão e um pouco de masoquismo da minha parte(e acho que outros programadores compartilham dessa opinião, tendo em vistas os estresses proveniente da nossa aréa 😅) pela tecnologia e programação tem me motivado a explorar diversos aspectos do mundo digital.
 - 🌱Hobbies: assistir filmes/animes enquanto vou para a faculdade no onibus(basicamente meu unico tempo livre), e atualmente estou interessado em Xadrez.
 - 📧E-mail para contato: carlosryan.profissional@gmail.com
-- Meu Linkedin: [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ryan-726820279/)
+ 
+### Minhas Redes Sociais: 
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ryan-726820279/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos_ryan07/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlosryan.profissionalgmail.com)
+
 
 ---
 ## 🛠️ Linguagens e Ferramentas:
