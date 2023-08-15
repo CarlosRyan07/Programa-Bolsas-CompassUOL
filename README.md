@@ -9,7 +9,7 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 - 📧E-mail para contato: carlosryan.profissional@gmail.com
  
 ### Minhas Redes Sociais: 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ryan-726820279/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-ryan-726820279/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carlos_ryan07/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlosryan.profissionalgmail.com)
 
