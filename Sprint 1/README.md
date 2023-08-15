@@ -19,5 +19,6 @@ Segue abaixo uma imagem da pratica.
 - ### 📌Curso: Linux para Desenvolvedores (c/ terminal, Shell, Apache e +)
 
 O curso de Linux para Desenvolvedores proporcionou uma base sólida para a compreensão do sistema operacional Linux e seu papel essencial no desenvolvimento de software. Através desse curso, obtive habilidades valiosas para trabalhar efetivamente em ambientes Linux, aproveitando seus recursos e ferramentas para aprimorar meu trabalho.
+A medida que avanço no programa de bolsas, pretendo continuar alimentando esse portfólio de estudos com mais detalhes e projetos práticos relacionados a esses tópicos.
 
 ![Certificado de Linux](../img/Certificado_Linux.jpg)
