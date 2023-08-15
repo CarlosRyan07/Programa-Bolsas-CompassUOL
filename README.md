@@ -27,7 +27,7 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 ## 🔥Projeto de Bolsa Estágio - CompassUOL 
 ---
 
-### Squad 2
+### 🎲Squad 2
 
 - Carlos Ryan De Sousa Pequeno
 - Carlos Eduardo Alves De Melo Junior
@@ -35,21 +35,21 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 - Leotino Alfredo De Melo Madruga
 - Pedro Castilhos Da Rosa
 
-- [x] [Sprint 1](Sprint%201/README.md)
+- #### 📌[x] [Sprint 1](Sprint%201/README.md)
 
   - Curso: Git e Github do básico ao avançado
   
   - Curso: Linux para Desenvolvedores
 
-- [ ] [Sprint 2](Sprint%202/README.md)
+- #### 📌[ ] [Sprint 2](Sprint%202/README.md)
 
   - Curso: SQL para Análise de Dados
 
   - Curso: BIg Data Fundamentos 3.0
 
-- [ ] [Sprint 3](Sprint%203/README.md)
-- [ ] [Sprint 4](Sprint%204/README.md)
-- [ ] [Sprint 5](Sprint%205/README.md)
+- #### 📌[ ] [Sprint 3](Sprint%203/README.md)
+- #### 📌[ ] [Sprint 4](Sprint%204/README.md)
+- #### 📌[ ] [Sprint 5](Sprint%205/README.md)
 - [ ] [Sprint 6](Sprint%206/README.md)
 - [ ] [Sprint 7](Sprint%207/README.md)
 - [ ] [Sprint 8](Sprint%208/README.md)
