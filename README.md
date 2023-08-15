@@ -25,7 +25,7 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 
 ---
 ## 🔥Projeto de Bolsa Estágio - CompassUOL 
----
+
 
 ### 🎲Squad 2
 
@@ -35,13 +35,14 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 - Leotino Alfredo De Melo Madruga
 - Pedro Castilhos Da Rosa
 
-- 📌[x] [Sprint 1](Sprint%201/README.md)
+
+- [x] [Sprint 1](Sprint%201/README.md)
 
   - Curso: Git e Github do básico ao avançado
   
   - Curso: Linux para Desenvolvedores
 
-- 📌[ ] [Sprint 2](Sprint%202/README.md)
+- [ ] [Sprint 2](Sprint%202/README.md)
 
   - Curso: SQL para Análise de Dados
 
