@@ -8,6 +8,10 @@ No decorrer do curso de Git e GitHub, adquiri um profundo entendimento sobre sis
 comandos mais utilizados nas minha interações: 
 -   git status, git init, git commit, git push, e git clone. 
 
+Segue abaixo uma imagem da pratica.
+
+![evidência](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%201/Evid%C3%AAncias/Captura%20de%20tela%202023-08-15%20140426.png)
+
 ![Certificado do Git e Github](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_Git_e_Github.jpg)
 
 ---
