@@ -42,6 +42,11 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
   - Curso: Linux para Desenvolvedores
 
 - [ ] [Sprint 2](Sprint%202/README.md)
+
+  - Curso: SQL para Análise de Dados
+
+  - Curso: BIg Data Fundamentos 3.0
+
 - [ ] [Sprint 3](Sprint%203/README.md)
 - [ ] [Sprint 4](Sprint%204/README.md)
 - [ ] [Sprint 5](Sprint%205/README.md)
