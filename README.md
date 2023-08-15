@@ -1,5 +1,8 @@
-# Programa-Bolsas-CompassUOL
+# Programa-Bolsas-CompassUOL 
+<div id="header" align="rigth">
 Repositório reservado para armazenar anotações e códigos criados ao longo do Programa de Bolsas da CompassUOL
+
+ 
 ## Olá!👋
 
 - 🙋‍♂️Meu nome é Carlos Ryan, e é um prazer compartilhar um pouco sobre mim. Atualmente, residente na cidade de Serra Branca, onde trabalho como Moto-Taxi.
@@ -30,7 +33,7 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 </div>
 
 ---
-## 🔥Projeto de Bolsa Estágio - CompassUOL 
+![https://compass.uol/en/home/](https://compass.uol/etc.clientlibs/compass/clientlibs/clientlib-react/resources/static/media/logo.d35fe3b1.svg)
 
 
 ### 🎲Squad 2
@@ -66,6 +69,7 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 
 ---
 ## Desafio
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkY2xhY3Nwb3htZ2M5dTN6cjFibm4zZTJyYXh0c2F1YXZxNXg3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eGFi0D9UVNvtT8xk1e/giphy.gif" width="100"/>
 
 1. [Desafio Final](Desafio/README.md)
 
