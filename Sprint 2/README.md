@@ -19,7 +19,7 @@ O curso foi ministrado pela Analista de negócios e instrutora Midori Toyota, qu
 
 ##### Extra: Resultado de todas as tabelas feitas do Projeto 2, no Excel: 
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%202/Evid%C3%AAncias/Captura%20de%20tela%202023-08-29%194110.png" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%202/Evid%C3%AAncias/Captura%20de%20tela%202023-08-29%20194110.png" width="600">
 
 
 <img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_SQL_Para_Análise_De_Dados.jpg" alt="SQL para Análise de Dados" width="600">
