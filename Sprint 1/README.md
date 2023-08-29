@@ -10,9 +10,10 @@ comandos mais utilizados nas minha interações:
 
 Segue abaixo uma imagem da pratica.
 
-![evidência](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%201/Evid%C3%AAncias/Captura%20de%20tela%202023-08-15%20140426.png)
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%201/Evid%C3%AAncias/Captura%20de%20tela%202023-08-15%20140426.png" alt="Evidência" width="700">
 
-![Certificado do Git e Github](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_Git_e_Github.jpg)
+
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_Git_e_Github.jpg" alt="Certificado do Git e Github" width="700">
 
 ---
 
@@ -21,4 +22,4 @@ Segue abaixo uma imagem da pratica.
 O curso de Linux para Desenvolvedores proporcionou uma base sólida para a compreensão do sistema operacional Linux e seu papel essencial no desenvolvimento de software. Através desse curso, obtive habilidades valiosas para trabalhar efetivamente em ambientes Linux, aproveitando seus recursos e ferramentas para aprimorar meu trabalho.
 A medida que avanço no programa de bolsas, pretendo continuar alimentando esse portfólio de estudos com mais detalhes e projetos práticos relacionados a esses tópicos.
 
-![Certificado de Linux](../img/Certificado_Linux.jpg)
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_Linux.jpg" alt="Certificado de Linux" width="700">
