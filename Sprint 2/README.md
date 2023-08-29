@@ -14,7 +14,8 @@ O curso foi ministrado pela Analista de negócios e instrutora Midori Toyota, qu
 
 
 <img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%202/Evid%C3%AAncias/Captura%20de%20tela%202023-08-29%20142010.png" width="600">
-##### A questão da Query acima esta na própria imagem e foi sobre Projeto 2- Perfil que esta presente no curso.
+
+##### A questão da Query acima esta na própria imagem e foi sobre  [Projeto 2- Perfil dos leads](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/tree/main/Sprint%202/SQL%20para%20an%C3%A1lise%20de%20dados/Exerc%C3%ADcios/Projeto%202-%20Perfil%20dos%20leads) que esta presente no curso.
 
 <img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_SQL_Para_Análise_De_Dados.jpg" alt="SQL para Análise de Dados" width="600">
 
