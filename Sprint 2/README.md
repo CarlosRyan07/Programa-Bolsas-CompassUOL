@@ -19,14 +19,17 @@ O curso foi ministrado pela Analista de negócios e instrutora Midori Toyota, qu
 
 ##### Extra: Resultado de todas as tabelas feitas do Projeto 2, no Excel: 
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%202/Evid%C3%AAncias/Captura%20de%20tela%202023-08-29%20194110.png" width="600">
 
+![Tabelas Projeto 2](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%202/Evid%C3%AAncias/Captura%20de%20tela%202023-08-29%20194110.png)
+
+
+#### Certificado do Curso🥇:
 
 <img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_SQL_Para_Análise_De_Dados.jpg" alt="SQL para Análise de Dados" width="600">
 
 ---
 
-- ### 💻Big Data Fundamentos 3.0
+- ### 💻🦾Big Data Fundamentos 3.0
 
 O curso BigData Fundamentos 3.0 foi completamente teórico, ministrado pelo instrutor Daniel Mendes, e foi uma experiência muito positiva para mim. Eu sempre tive interesse em Big Data, mas nunca havia tido a oportunidade de aprender sobre o assunto de forma aprofundada. O Big Data é uma área em rápida evolução, e novas tecnologias e técnicas estão sendo desenvolvidas constantemente. À medida que o Big Data se torna mais acessível e fácil de usar, ele terá um impacto cada vez maior em nossas vidas, e saber disso me fez aproveitar o curso ao máximo.
   
@@ -34,6 +37,8 @@ Logo abaixo o resultado da prova de 50 questões para poder tirar o Certificado.
 
 <img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%202/Evid%C3%AAncias/Captura%20de%20tela%202023-08-29%20164302.png" width="600">
 
+#### Certificado do Curso🥇:
 
 <img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_BigData_3.0.jpg" width="600">
 
+╰(*°▽°*)╯
