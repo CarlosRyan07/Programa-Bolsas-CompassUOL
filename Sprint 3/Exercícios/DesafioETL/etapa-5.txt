@@ -2,7 +2,7 @@ Harrison Ford - 4871.70  milhões de dólares
 Samuel L. Jackson - 4772.80  milhões de dólares
 Morgan Freeman - 4468.30  milhões de dólares
 Tom Hanks - 4340.80  milhões de dólares
-Robert Downey Jr. - 3947.30  milhões de dólares
+"Robert Downey, Jr." - 3947.30  milhões de dólares
 Eddie Murphy - 3810.40  milhões de dólares
 Tom Cruise - 3587.20  milhões de dólares
 Johnny Depp - 3368.60  milhões de dólares

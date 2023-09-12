@@ -38,17 +38,36 @@
 ##################################################################################################################################################################################################################
 
 # Função para ler o arquivo actors.csv e retornar os dados como uma lista de dicionários
+def split_line_with_quotes(line):
+    parts = []
+    parts_iter = iter(line.split(','))
+    for part in parts_iter:
+        if part.startswith('"') and not part.endswith('"'):
+            combined_part = part
+            while not part.endswith('"'):
+                part = next(parts_iter)
+                combined_part += ',' + part
+            parts.append(combined_part)
+        else:
+            parts.append(part)
+    return parts
+
 def ler_arquivo_csv(arquivo):
     dados = []
     with open(arquivo, 'r', encoding='utf-8') as file:
-        linhas = file.readlines()
-        colunas = linhas[0].strip().split(',')
-        for linha in linhas[1:]:
-            valores = linha.strip().split(',')
-            linha_dict = {colunas[i]: valores[i] for i in range(len(colunas))}
-            dados.append(linha_dict)
+        colunas = None
+        for linha in file:
+            linha = linha.strip()
+            if not linha:
+                continue
+            if not colunas:
+                colunas = split_line_with_quotes(linha)
+            else:
+                valores = split_line_with_quotes(linha)
+                linha_dict = {colunas[i]: valores[i] for i in range(min(len(colunas), len(valores)))}
+                dados.append(linha_dict)
     return dados
-
+    
 def tratar_valor_monetario(valor):
     valor = valor.replace(',', '').replace('$', '').replace(' mil', '')
     try:
