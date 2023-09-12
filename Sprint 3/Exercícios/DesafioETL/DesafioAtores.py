@@ -35,7 +35,7 @@
 # 5 - Apresente a lista dos atores ordenada pela receita bruta de bilheteria de seus filmes (coluna Total Gross), em ordem decrescente.
 # Ao escrever no arquivo, considere o padrão de saída (nome do ator -  receita total bruta) adicionando um resultado a cada linha.
 
-##################################################################################################################################################################################################################
+
 
 # Função para ler a pegadinha da questão
 def separar_linha_com_aspas(linha):
@@ -156,3 +156,4 @@ with open('etapa-5.txt', 'w', encoding='utf-8') as file:
 # Tratamento de exceções: O código trata exceções ao converter valores, garantindo que erros de conversão não interrompam o programa.
 
 # Foquei em contruir o código seguindo boas práticas de codificação, como o uso de nomes de variáveis descritivos e comentários explicativos para melhor entendimento.
+ 
