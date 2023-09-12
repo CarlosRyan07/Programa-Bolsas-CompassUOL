@@ -15,6 +15,14 @@ Explorei o mundo da programação orientada a objetos, um paradigma fundamental 
 Este curso me proporcionou uma visão completa das habilidades e capacidades do Python, capacitando-me a aplicá-lo de forma eficaz em projetos reais. 
 Além disso, ficou evidente para mim que havia muito mais para aprender sobre Python do que eu imaginava inicialmente, tornando essa jornada de aprendizado ainda mais empolgante e valiosa.
 
+Dentro de quase todas as pastas existem os Desafios que superei ao longo do curso.
+aqui irei deixar os links com acesso a eles se tiver interesse de dar uma olhadinha.
 
+- [Desafio HTML](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/funcoes/Desafio_html.py) 
+- [Desafio If Else - 2]
+- [Desafio CSV](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/manipulacao_arquivos/io_Desafio_csv.py)
+- [Desafio Package](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/pacotes/Desafio_package.py)
+- [Desafio Carro](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/poo/Desafio_carro.py)
+- [Desafio Loja](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/poo/Desafio_loja.py)
 
 
