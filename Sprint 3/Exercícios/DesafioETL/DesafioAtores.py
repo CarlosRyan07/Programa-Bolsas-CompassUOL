@@ -37,21 +37,22 @@
 
 ##################################################################################################################################################################################################################
 
-# Função para ler o arquivo actors.csv e retornar os dados como uma lista de dicionários
-def split_line_with_quotes(line):
-    parts = []
-    parts_iter = iter(line.split(','))
-    for part in parts_iter:
-        if part.startswith('"') and not part.endswith('"'):
-            combined_part = part
-            while not part.endswith('"'):
-                part = next(parts_iter)
-                combined_part += ',' + part
-            parts.append(combined_part)
+# Função para ler a pegadinha da questão
+def separar_linha_com_aspas(linha):
+    partes = []
+    iterador_partes = iter(linha.split(','))
+    for parte in iterador_partes:
+        if parte.startswith('"') and not parte.endswith('"'):
+            parte_combinada = parte
+            while not parte.endswith('"'):
+                parte = next(iterador_partes)
+                parte_combinada += ',' + parte
+            partes.append(parte_combinada)
         else:
-            parts.append(part)
-    return parts
+            partes.append(parte)
+    return partes
 
+# Função para ler o arquivo actors.csv e retornar os dados como uma lista de dicionários
 def ler_arquivo_csv(arquivo):
     dados = []
     with open(arquivo, 'r', encoding='utf-8') as file:
@@ -61,9 +62,9 @@ def ler_arquivo_csv(arquivo):
             if not linha:
                 continue
             if not colunas:
-                colunas = split_line_with_quotes(linha)
+                colunas = separar_linha_com_aspas(linha)
             else:
-                valores = split_line_with_quotes(linha)
+                valores = separar_linha_com_aspas(linha)
                 linha_dict = {colunas[i]: valores[i] for i in range(min(len(colunas), len(valores)))}
                 dados.append(linha_dict)
     return dados
@@ -130,7 +131,7 @@ ator_maior_media_receita, maior_media_receita = encontrar_maior_media_receita(da
 filmes_mais_lucrativos = contar_filmes_mais_lucrativos(dados_atores)
 atores_ordenados = ordenar_atores_por_receita(dados_atores)
 
-# Escrever resultados nos arquivos
+# Escrever resultados nos arquivos.txt
 with open('etapa-1.txt', 'w', encoding='utf-8') as file:
     file.write(f'{ator_maior_numero_filmes} - {int(maior_numero_filmes)} filmes\n')
 
