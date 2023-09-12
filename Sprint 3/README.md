@@ -18,11 +18,17 @@ Além disso, ficou evidente para mim que havia muito mais para aprender sobre Py
 Dentro de quase todas as pastas existem os Desafios que superei ao longo do curso.
 aqui irei deixar os links com acesso a eles se tiver interesse de dar uma olhadinha.
 
-- [Desafio HTML](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/funcoes/Desafio_html.py) 
-- [Desafio If Else - 2]
+
+- [Desafio Operadores Aritmeticos](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/fundamentos/Desafio_operadores_aritmeticos.py)
+- [Desafio Operadores Lógicos](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/fundamentos/Desafio_operadores_logicos.py)
+- [Desafio HTML](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/funcoes/Desafio_html.py)
+- [Desafio If Else - 1](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/estruturas_controle/Desafio_if_else_1.py)
+- [Desafio If Else - 2](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/estruturas_controle/Desafio_if_else_2.py)
+- [Desafio Set](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/estruturas_controle/Desafio_set.py)
 - [Desafio CSV](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/manipulacao_arquivos/io_Desafio_csv.py)
 - [Desafio Package](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/pacotes/Desafio_package.py)
 - [Desafio Carro](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/poo/Desafio_carro.py)
 - [Desafio Loja](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/poo/Desafio_loja.py)
+- [Desafio Contador](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/poo_avancada/Desafio_contador_objetos.py)
 
 
