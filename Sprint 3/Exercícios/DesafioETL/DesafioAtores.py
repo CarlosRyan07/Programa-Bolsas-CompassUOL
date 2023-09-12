@@ -35,7 +35,7 @@
 # 5 - Apresente a lista dos atores ordenada pela receita bruta de bilheteria de seus filmes (coluna Total Gross), em ordem decrescente.
 # Ao escrever no arquivo, considere o padrão de saída (nome do ator -  receita total bruta) adicionando um resultado a cada linha.
 
-####################################################################################################################################################################################################################
+##################################################################################################################################################################################################################
 
 # Função para ler o arquivo actors.csv e retornar os dados como uma lista de dicionários
 def ler_arquivo_csv(arquivo):
@@ -129,7 +129,9 @@ with open('etapa-5.txt', 'w', encoding='utf-8') as file:
     for linha in atores_ordenados:
         file.write(f'{linha["Actor"]} - {linha["Total Gross"]} milhões de dólares\n')
         
-# Nesse código fiz dividido em funções que realizam tarefas específicas, tornando-o mais fácil de entender e manter.
+# No começo tentei fazer o codigo pensando na eficiencia do Algoritmo fazendo com que iterasse pelos dados uma única vez para calcular as estatísticas.
+
+# Porém optei por uma abordagem diferente, nesse código fiz dividido em funções que realizam tarefas específicas, tornando-o mais fácil de entender e manter.
 
 # Tratamento de exceções: O código trata exceções ao converter valores, garantindo que erros de conversão não interrompam o programa.
 
