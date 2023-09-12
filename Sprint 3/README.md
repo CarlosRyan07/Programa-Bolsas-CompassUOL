@@ -30,5 +30,7 @@ E as questões que mais gostei de programar junto com o ultimo desafio, estão n
 
 Alguns exemplos deles:
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_SQL_Para_Análise_De_Dados.jpg" alt="SQL para Análise de Dados" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/Evid%C3%AAncias/Captura%20de%20tela%202023-09-12%20155404.png" width="850">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/Evid%C3%AAncias/Captura%20de%20tela%202023-09-12%20155651.png" width="850">
 
+![exercicio25.py](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/Evid%C3%AAncias/Captura%20de%20tela%202023-09-12%20155920.png)
