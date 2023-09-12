@@ -27,3 +27,8 @@ Aqui irei deixar os links com acesso a eles, do mais facil indo ao mais complica
 - 🔥[Desafio ETL - o mais complicado ](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/Exerc%C3%ADcios/DesafioETL/DesafioAtores.py)🔥
 
 E as questões que mais gostei de programar junto com o ultimo desafio, estão na Pasta [Exercícios](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/tree/main/Sprint%203/Exerc%C3%ADcios).
+
+Alguns exemplos deles:
+
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_SQL_Para_Análise_De_Dados.jpg" alt="SQL para Análise de Dados" width="600">
+
