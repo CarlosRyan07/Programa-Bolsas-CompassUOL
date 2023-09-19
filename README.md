@@ -61,7 +61,12 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
   
   - Curso : Python 3 - Curso Completo do Básico ao Avançado - Parte 1
     
-- [ ] [Sprint 4](Sprint%204/README.md)
+- [] [Sprint 4](Sprint%204/README.md)
+
+  - Curso : Python 3 - Curso Completo do Básico ao Avançado - Parte 2
+
+  - Curso : Docker para Desenvolvedores (com Docker Swarm e Kubernetes)
+
 - [ ] [Sprint 5](Sprint%205/README.md)
 - [ ] [Sprint 6](Sprint%206/README.md)
 - [ ] [Sprint 7](Sprint%207/README.md)
