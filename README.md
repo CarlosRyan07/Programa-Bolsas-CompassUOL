@@ -61,7 +61,7 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
   
   - Curso : Python 3 - Curso Completo do Básico ao Avançado - Parte 1
     
-- [] [Sprint 4](Sprint%204/README.md)
+- [ ] [Sprint 4](Sprint%204/README.md)
 
   - Curso : Python 3 - Curso Completo do Básico ao Avançado - Parte 2
 
