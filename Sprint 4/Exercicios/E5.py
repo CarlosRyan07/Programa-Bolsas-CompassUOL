@@ -37,18 +37,15 @@ with open('estudantes.csv', 'r') as arquivo:
     resultados = []
 
     for linha in leitor_csv:
-        nome, *notas = linha  # Use o operador * para pegar todas as notas restantes como uma lista
+        nome, *notas = linha  # Usei o operador * para pegar todas as notas restantes como uma lista
         notas = list(map(int, notas))  # Converter para inteiros
         
-        # Classifique as notas em ordem decrescente
         notas_ordenadas = sorted(notas, reverse=True)
         
-        # Pegue as três melhores notas
         tres_melhores = notas_ordenadas[:3]
         
         media = calcular_media(tres_melhores)
         
-        # Use a função format para formatar a média com duas casas decimais
         media_formatada = "{:.2f}".format(media)  # Formato de ponto flutuante com 2 casas decimais
         if media_formatada.endswith('.00'):
             media_formatada = media_formatada[:-1] 
