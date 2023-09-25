@@ -7,20 +7,20 @@ O curso foi ministrado pela Analista de negócios e instrutora Midori Toyota, qu
 
 ##### Logo abaixo exemplos das praticas feita no site: [https://sqliteonline.com](https://sqliteonline.com/), e no pgAdmin 4.
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%202/Evid%C3%AAncias/Captura%20de%20tela%202023-08-29%20141502.png" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_2/Evidencias/Captura_de_tela_2023-08-29_141502.png" width="600">
 
 ##### A questão da Query acima foi a seguinte:
 ##### A comissão de um vendedor é definida a partir de um percentual sobre o total de vendas (quantidade * valor unitário) por ele realizado. O percentual de comissão de cada vendedor está armazenado na coluna perccomissao, tabela tbvendedor. Com base em tais informações, calcule a comissão de todos os vendedores, considerando todas as vendas armazenadas na base de dados com status concluído. As colunas presentes no resultado devem ser vendedor, valor_total_vendas e comissao. O valor de comissão deve ser apresentado em ordem decrescente arredondado na segunda casa decimal.
 
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%202/Evid%C3%AAncias/Captura%20de%20tela%202023-08-29%20142010.png" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_2/Evidencias/Captura_de_tela_2023-08-29_142010.png" width="600">
 
 ##### A questão da Query acima esta na própria imagem e foi sobre  [Projeto 2- Perfil dos leads](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/tree/main/Sprint%202/SQL%20para%20an%C3%A1lise%20de%20dados/Exerc%C3%ADcios/Projeto%202-%20Perfil%20dos%20leads) que esta presente no curso.
 
 ##### Extra: Resultado de todas as tabelas feitas do Projeto 2, no Excel: 
 
 
-![Tabelas Projeto 2](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%202/Evid%C3%AAncias/Captura%20de%20tela%202023-08-29%20194110.png)
+![Tabelas Projeto 2](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_2/Evidencias/Captura_de_tela_2023-08-29_194110.png)
 
 
 #### Certificado do Curso🥇:
@@ -35,7 +35,7 @@ O curso BigData Fundamentos 3.0 foi completamente teórico, ministrado pelo inst
   
 Logo abaixo o resultado da prova de 50 questões para poder tirar o Certificado.
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%202/Evid%C3%AAncias/Captura%20de%20tela%202023-08-29%20164302.png" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_2/Evidencias/Captura_de_tela_2023-08-29_164302.png" width="600">
 
 #### Certificado do Curso🥇:
 
