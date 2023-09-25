@@ -19,18 +19,18 @@ Dentro de quase todas as pastas existem os Desafios que superei ao longo do curs
 Aqui irei deixar os links com acesso a eles, do mais facil indo ao mais complicado.
 
 
-- [Desafio Operadores Aritmeticos](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/fundamentos/Desafio_operadores_aritmeticos.py) • [Desafio Operadores Lógicos](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/fundamentos/Desafio_operadores_logicos.py) •  [Desafio HTML](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/funcoes/Desafio_html.py)
--  [Desafio If Else - 1](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/estruturas_controle/Desafio_if_else_1.py) • [Desafio If Else - 2](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/estruturas_controle/Desafio_if_else_2.py) • [Desafio Set](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/estruturas_controle/Desafio_set.py)
-- [Desafio CSV](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/manipulacao_arquivos/io_Desafio_csv.py) • [Desafio Package](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/pacotes/Desafio_package.py)
-- [Desafio Carro](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/poo/Desafio_carro.py) • [Desafio Loja](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/poo/Desafio_loja.py) • [Desafio Contador](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/poo_avancada/Desafio_contador_objetos.py)
+- [Desafio Operadores Aritmeticos](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_3/Python/fundamentos/Desafio_operadores_aritmeticos.py) • [Desafio Operadores Lógicos](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_3/Python/fundamentos/Desafio_operadores_logicos.py) •  [Desafio HTML](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_3/Python/funcoes/Desafio_html.py)
+-  [Desafio If Else - 1](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_3/Python/estruturas_controle/Desafio_if_else_1.py) • [Desafio If Else - 2](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_3/Python/estruturas_controle/Desafio_if_else_2.py) • [Desafio Set](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_3/Python/estruturas_controle/Desafio_set.py)
+- [Desafio CSV](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_3/Python/manipulacao_arquivos/io_Desafio_csv.py) • [Desafio Package](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_3/Python/pacotes/Desafio_package.py)
+- [Desafio Carro](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_3/Python/poo/Desafio_carro.py) • [Desafio Loja](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_3/Python/poo/Desafio_loja.py) • [Desafio Contador](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_3/Python/poo_avancada/Desafio_contador_objetos.py)
 
-- 🔥[Desafio ETL - o mais complicado ](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/Exerc%C3%ADcios/DesafioETL/DesafioAtores.py)🔥
+- 🔥[Desafio ETL - o mais complicado ](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_3/Exercicios/DesafioETL/DesafioAtores.py)🔥
 
-E as questões que mais gostei de programar junto com o ultimo desafio, estão na Pasta [Exercícios](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/tree/main/Sprint%203/Exerc%C3%ADcios).
+E as questões que mais gostei de programar junto com o ultimo desafio, estão na Pasta [Exercícios](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/tree/main/Sprint_3/Exercicios).
 
 Alguns exemplos deles:
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/Evid%C3%AAncias/Captura%20de%20tela%202023-09-12%20155404.png" width="850">
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/Evid%C3%AAncias/Captura%20de%20tela%202023-09-12%20155651.png" width="850">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_3/Evidencias/Captura_de_tela_2023-09-12%20155404.png" width="850">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_3/Evidencias/Captura_de_tela_2023-09-12%20155651.png" width="850">
 
-![exercicio25.py](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%203/Evid%C3%AAncias/Captura%20de%20tela%202023-09-12%20155920.png)
+![exercicio25.py](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_3/Evidencias/Captura_de_tela_2023-09-12%20155920.png)
