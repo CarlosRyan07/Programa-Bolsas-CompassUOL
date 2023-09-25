@@ -10,7 +10,7 @@ comandos mais utilizados nas minha interações:
 
 Segue abaixo uma imagem da pratica.
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%201/Evid%C3%AAncias/Captura%20de%20tela%202023-08-15%20140426.png" alt="Evidência" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint%201/Evidencias/Captura_de_tela_202023-08-15_20140426.png" alt="Evidência" width="600">
 
 Certificado do Curso🥇:
 
