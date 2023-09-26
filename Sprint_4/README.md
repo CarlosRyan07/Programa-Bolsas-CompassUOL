@@ -11,7 +11,32 @@ Um Desafio mais interessante pra mim dessa parte foi o [Desafio da Imutabilidade
 Ainda sobre python uma das melhores partes dessa Sprint são os [Exercícios](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_4/Exercicios), dentre eles o que eu tive maior dificuldade foi o [E5.py](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_4/Exercicios/E5.py).
 
 ---
-### ![Alt text](image.png) Docker para Desenvolvedores (com Docker Swarm e Kubernetes)
+### 🐳Docker para Desenvolvedores (com Docker Swarm e Kubernetes)🐋
+
+O curso de Docker foi ministrado pelo Instrutor Matheus Battisti. Nos foi mostrado o porque o Docker é altamente vantajoso para desenvolvedores. Com benefícios como portabilidade, eficiência no desenvolvimento, escalabilidade, colaboração e compatibilidade com a nuvem, o Docker oferece oportunidades de emprego e impulsiona carreiras no mercado de tecnologia.
+
+Este curso foi o mais desafiador para mim, não por ter um conteúdo muito complicado, mas sim pela falta de espaço que meu notebook estava, o que dificultou muito a pratica no começo, mas no fim deu tudo certo👍🏻!!!
+Aprendemos do basico até o avançado, incluindo:
+* Criar e subir containers de Docker
+* Criar imagens de Docker
+* Docker Compose
+* Desenvolvimento de Volumes no Docker
+* Criação de networks no Docker, e ect.
+
+Aqui esta um dos Desafios que tive, este abaixo sendo o [Mascarar Dados](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_4/docker/MascararDados):
+
+A Descrição do Desafio era:
+
+-- Criar novo script Python que implementa o algoritmo a seguir:
+1 - Receber uma string via input
+2 - Gerar o hash  da string por meio do algoritmo SHA-1
+3 - Imprimir o hash em tela, utilizando o método hexdigest
+4 - Retornar ao passo 1
+
+-- Criar uma imagem Docker chamada mascarar-dados que execute o script Python criado anteriormente
+--  Iniciar um container a partir da imagem, enviando algumas palavras para mascaramento
+
+<img scr="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_4/docker/Evidencias/Captura_de_tela_2023-09-24_140434.png" width= "600">
 
 ---
 ### 📊Estatística Descritiva com Python📈
