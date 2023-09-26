@@ -45,23 +45,23 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 
 ---
 
-- [x] [Sprint 1](Sprint%201/README.md)
+- [x] [Sprint 1](Sprint_1/README.md)
 
   - Curso: Git e Github do básico ao avançado
   
   - Curso: Linux para Desenvolvedores
 
-- [x] [Sprint 2](Sprint%202/README.md)
+- [x] [Sprint 2](Sprint_2/README.md)
 
   - Curso: SQL para Análise de Dados
 
   - Curso: Big Data Fundamentos 3.0
 
-- [x] [Sprint 3](Sprint%203/README.md)
+- [x] [Sprint 3](Sprint_3/README.md)
   
   - Curso : Python 3 - Curso Completo do Básico ao Avançado - Parte 1
     
-- [ ] [Sprint 4](Sprint%204/README.md)
+- [x] [Sprint 4](Sprint_4/README.md)
 
   - Curso : Python 3 - Curso Completo do Básico ao Avançado - Parte 2
 
