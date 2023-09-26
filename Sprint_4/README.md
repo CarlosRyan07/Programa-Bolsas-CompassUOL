@@ -36,7 +36,13 @@ A Descrição do Desafio era:
 -- Criar uma imagem Docker chamada mascarar-dados que execute o script Python criado anteriormente
 --  Iniciar um container a partir da imagem, enviando algumas palavras para mascaramento
 
-<img scr="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_4/docker/Evidencias/Captura_de_tela_2023-09-24_140434.png" width= "600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_4/docker/Evidencias/Captura_de_tela_2023-09-24_140434.png" width="800">
+
+
+Certificado do Curso🥇:
+
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_Docker_para_Desenvolvedores.jpg" width="600">
+
 
 ---
 ### 📊Estatística Descritiva com Python📈
