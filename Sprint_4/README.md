@@ -17,13 +17,14 @@ O curso de Docker foi ministrado pelo Instrutor Matheus Battisti. Nos foi mostra
 
 Este curso foi o mais desafiador para mim, não por ter um conteúdo muito complicado, mas sim pela falta de espaço que meu notebook estava, o que dificultou muito a pratica no começo, mas no fim deu tudo certo👍🏻!!!
 Aprendemos do basico até o avançado, incluindo:
+
 * Criar e subir containers de Docker
 * Criar imagens de Docker
 * Docker Compose
 * Desenvolvimento de Volumes no Docker
 * Criação de networks no Docker, e ect.
 
-Aqui esta um dos Desafios que tive, este abaixo sendo o [Mascarar Dados](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_4/docker/MascararDados):
+Aqui esta um dos Desafios que tive, este abaixo sendo o [Mascarar Dados](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_4/Exercicios/secao_3/tarefa_3):
 
 A Descrição do Desafio era:
 
@@ -36,7 +37,7 @@ A Descrição do Desafio era:
 -- Criar uma imagem Docker chamada mascarar-dados que execute o script Python criado anteriormente
 --  Iniciar um container a partir da imagem, enviando algumas palavras para mascaramento
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_4/docker/Evidencias/Captura_de_tela_2023-09-24_140434.png" width="800">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_4/Evidencias/Captura_de_tela_2023-09-24_140434.png" width="800">
 
 
 Certificado do Curso🥇:
