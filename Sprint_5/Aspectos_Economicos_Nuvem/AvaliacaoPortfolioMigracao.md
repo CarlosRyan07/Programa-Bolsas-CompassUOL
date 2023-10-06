@@ -1,0 +1,8 @@
+## Avaliação do Portfólio da Migração
+
+A Avaliação do Portfólio da Migração (MPA) é uma ferramenta que ajuda as equipes de projeto na transição para discussões de arquitetura e provas de conceito durante migrações de nuvem. Ela simplifica, O objetivo da Avaliação do portfólio da migração é automatizar a análise do portfólio e fornecer validação do caso de negócio. sendo especialmente benéfica para AWS Partners, consultores e equipes de vendas focados em migrações de nuvem. A MPA permite oferecer análises de redução de custos e relatórios de planejamento de migração aos clientes, ajudando-os a comparar os custos entre a infraestrutura local e os serviços da AWS. Além disso, ajuda os clientes a validar seus casos de negócios, criar planos de migração e estimar os custos associados.
+
+A MPA pode ser usada desde o início da interação com o cliente para mapear o inventário de TI local para serviços da AWS e fornecer direcionamento ao projeto. Também auxilia na determinação dos fatores de viabilidade do projeto, como custo total de propriedade, comparações entre infraestrutura local e AWS, custos de migração e dimensionamento adequado para migrações do tipo lift-and-shift. Além disso, a MPA ajuda no planejamento da migração, incluindo agrupamento, priorização e planejamento em ondas de aplicativos.
+
+Para acessar a MPA, os AWS Partners podem fazer login no AWS Partner Central e usar a AWS Partner Network ou as credenciais da APN. Apenas parceiros selecionados, avançados e premier têm acesso à MPA. Para inscritos, o acesso pode ser concedido (por exemplo, para fins de treinamento) usando códigos de acesso. Gerentes de entrega de parceiros, ou PDMs, podem emitir códigos de acesso para seus parceiros.
+
