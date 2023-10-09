@@ -18,3 +18,12 @@ Resumindo, a AWS cuida da segurança da infraestrutura física e dos serviços e
 A imagem abaixo ajuda a entender o quem é responsavel pelo o que:
 
 ![Responsabilidades Cliente/AWS](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Exam_Practitioner/img/Captura%20de%20tela%202023-10-08%20162404.png)
+
+## Perguntas sobre AWS Shared Responsibility Model
+
+Q - Qual das opções a seguir é responsabilidade do cliente segundo o modelo de responsabilidade compartilhada da AWS?
+
+a - Aplicação de pacthes na infaestrutura subjacente
+b - Segurança Física
+c - Aplicação de pacthes nas instâncias do Amazon EC2
+d - Aplicação de pact na infraestrutura de rede 🟢 
