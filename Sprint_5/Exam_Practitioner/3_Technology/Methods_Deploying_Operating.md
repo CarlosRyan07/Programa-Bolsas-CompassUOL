@@ -52,3 +52,15 @@ Identificar os recursos para suporte à tecnologia.
 - Os recursos de suporte à tecnologia são projetados para ajudar os clientes a tirar o máximo proveito da AWS, garantindo a segurança, a confiabilidade e o desempenho de suas cargas de trabalho na nuvem.
 
 Ao usar a AWS, é importante considerar qual método de implantação é mais adequado para suas necessidades, explorar os serviços disponíveis para construir sua infraestrutura e aproveitar os recursos de suporte para obter assistência quando necessário. A AWS fornece uma plataforma robusta e escalável para ajudar as organizações a alcançar seus objetivos de negócios na nuvem.
+
+### Perguntas sobre Methods Deploying Operating
+
+Q - QUais componentes são necessarios para criar uma conexão Site-to-Site VPN bem sucedida na AWS?
+
+a - Gateway de Internet   
+b - NAT Gateway
+c - Gateway do cliente 🟢
+d - transit gateway
+e - Virtual Private Gateway 🟢
+
+esses são os unicos componentes necessarios para criar uma conexão Site-to-Site VPN bem sucedida na AWS.
