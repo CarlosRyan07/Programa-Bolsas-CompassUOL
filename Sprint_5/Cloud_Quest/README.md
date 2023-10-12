@@ -9,7 +9,7 @@ Em comparação com os outros cursos que tive que eram mais teóricos, esse colo
 
 Aqui um pequeno exemplo de pratica ao mexendo com serviços de EC2.
 
-![Cloud Quest](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Cloud_Quest/Certificados/labsteps_cce_3.png.crdownload)
+![Cloud Quest](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Cloud_Quest/Certificados/labsteps_cce_3.png)
 
 E ao final depois de muita dor de cabeça😅, consegui finalizar o jogo e ganhar o certificado de conclusão do curso.
 Abaixo o meu personagem em sua comemoração de vitória.
