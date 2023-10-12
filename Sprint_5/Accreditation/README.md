@@ -14,7 +14,7 @@ para mais informações clique em cada um dos modulos acima.
 Ao final do curso tivemos um teste de conhecimento de 30 [questões](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Accreditation/questoes.txt) no qual passava se obtesse nota mais que 80%.
 Abaixo esta a Evidencia do teste de conhecimento.
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/87fc3cb668aa930543b920a7a79a1fe769083356/Sprint_5/Accreditation/Certificados/Captura%20de%20tela%202023-10-07%20175706.png" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Accreditation/Certificados/Captura_de_tela_2023-10-07_175706.png" width="600">
 
 ### Certificado do Curso🥇:
 

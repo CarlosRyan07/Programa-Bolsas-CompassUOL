@@ -72,8 +72,8 @@ Também podem usar esses dados para estimar o nível de trabalho e os custos ass
 Ao final desse curso, teve um teste de conhecimento de 20 [questões](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Aspectos_Economicos_Nuvem/questoes.txt) no qual passava se obtesse nota mais que 80%.
 Abaixo esta a Evidencia do teste de conhecimento.
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/69aee439c53cf2b84da433e870f26f4b46982d1f/Sprint_5/Aspectos_Economicos_Nuvem/Certificados/Captura%20de%20tela%202023-10-06%20110512.png" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Aspectos_Economicos_Nuvem/Certificados/Captura_de_tela_2023-10-06_110512.png" width="600">
 
 ### Certificado do Curso🥇:
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Aspectos_Economicos_Nuvem/Certificados/Certificado_AWS_Aspectos_Economicos_na%20Nuvem.png" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Aspectos_Economicos_Nuvem/Certificados/Certificado_AWS_Aspectos_Economicos_na_Nuvem.png" width="600">

@@ -1,6 +1,6 @@
-Aqui separei as questões pra mais na frente utiliza-las para o estudo antes da prova.
+## Aspectos Econômicos da Nuvem - Questões
 
-Aspectos Econômicos da Nuvem
+Aqui separei as questões pra mais na frente utiliza-las para o estudo antes da prova.
 
 Quais são algumas das maneiras para ajudar os clientes durante uma conversa e uma análise sobre valor comercial?  (Selecione DUAS.)
 Orientar os clientes na tomada de decisões de compra com confiança 

@@ -1,6 +1,6 @@
-Aqui separei as questões pra mais na frente utiliza-las para o estudo antes da prova.
+## Accreditation - Questões
 
-Accreditation
+Aqui separei as questões pra mais na frente utiliza-las para o estudo antes da prova.
 
 Qual estratégia de migração consiste em uma simples transferência de recursos de aplicativos de um data center on-premises para a Nuvem AWS? 
 Re-hospedagem: lift and shift
