@@ -11,7 +11,7 @@ Aqui criei a pasta que irá armazenar nossas queries no bucket que criamos no de
 
 <img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_6/Desafios/Desafio_LAB_AWS_ATHENA/Evidencias/2_CriadoMeuBanco.png" witgh=600>
 
-Aqui criei um banco de dados chamado "meubanco" e uma tabela chamada "nomes".
+Aqui criei um banco de dados chamado "meubanco".
 
 
 ### Etapa 3: Criar uma tabela
