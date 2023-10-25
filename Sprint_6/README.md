@@ -30,9 +30,9 @@ Nessa Sprint foi abordado os seguintes cursos:
 
 13. [AWS Skill Builder - Why Analytics for Games](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_6/13_Why_Analytics_for_Games)
 
-E logo após os cursos, vamos para os [Desafios🔥](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/79b377cf045e60d4e6951e9ad5df0050bc7837f6/Sprint_6/Desafios):
+E logo após os cursos, vamos para os [Desafios🔥](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_6/Desafios):
 
-* [Desafio AWS S3](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/9847fbcbbc166638a7dd72438363df4c805564b6/Sprint_6/Desafios/Desafio_AWS_LAB_S3)
+* [Desafio AWS S3](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_6/Desafios/Desafio_AWS_LAB_S3)
 
 * [Desafio AWS Athena](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_6/Desafios/Desafio_LAB_AWS_ATHENA)
 
