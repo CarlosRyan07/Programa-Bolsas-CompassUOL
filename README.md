@@ -69,14 +69,14 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 
   - Curso : Estatística Descritiva com Python
 
-- [x] [Sprint 5](Sprint%205/README.md)
+- [x] [Sprint 5](Sprint_5/README.md)
 
-- [x] [Sprint 6](Sprint%206/README.md)
+- [x] [Sprint 6](Sprint_6/README.md)
 
-- [ ] [Sprint 7](Sprint%207/README.md)
-- [ ] [Sprint 8](Sprint%208/README.md)
-- [ ] [Sprint 9](Sprint%209/README.md)
-- [ ] [Sprint 10](Sprint%2010/README.md)
+- [ ] [Sprint 7](Sprint_7/README.md)
+- [ ] [Sprint 8](Sprint_8/README.md)
+- [ ] [Sprint 9](Sprint_9/README.md)
+- [ ] [Sprint 10](Sprint_10/README.md)
 
 ---
 ## Desafio
