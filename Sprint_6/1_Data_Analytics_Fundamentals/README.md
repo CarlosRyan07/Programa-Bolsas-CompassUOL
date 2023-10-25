@@ -13,8 +13,8 @@ Este curso visá nos mostrar como identificar a solução de avaliação de dado
 Big data é um termo do setor que mudou nos últimos anos. Muitas vezes, as soluções de big data fazem parte de soluções de avaliação de dados. 
 
 ---
-### As organizações gastam milhões de dólares em armazenamento de dados.
-### O problema não é encontrar os dados, mas deixar de fazer algo com eles. 
+                As organizações gastam milhões de dólares em armazenamento de dados.
+                O problema não é encontrar os dados, mas deixar de fazer algo com eles. 
 
 ---
 
@@ -31,6 +31,7 @@ Benefícios de análise de dados em grande escala:
 - **Comportamento do usuário** -  Com base em feeds de redes sociais, qual o nível de influência que essa pessoa tem? Que tipos de produtos ou serviços essas pessoas teriam interesse em promover?
 
 - **Detecção de Ameaças á segurança** - Quais padrões de uso indicam possíveis riscos de segurança de agentes mal‑intencionados?
+---
 
 ### Componentes de uma solução de avaliação de dados
 
@@ -52,18 +53,23 @@ Uma solução de avaliação de dados tem os seguintes componentes.
 
 Esses componentes são essenciais para criar uma solução de avaliação de dados eficaz, que pode ser usada em uma variedade de contextos, como análise de negócios, tomada de decisões estratégicas e monitoramento de sistemas.
 
-O componente de coleta é onde os serviços montam dados de várias fontes.
 
-O componente de armazenamento armazena dados em repositórios.
+                O componente de coleta é onde os serviços montam dados de várias fontes.
 
-O componente de processamento é onde os serviços manipulam dados nas formas necessárias.
+                O componente de armazenamento armazena dados em repositórios.
 
-O componente de consumo é onde os dados são apresentados nos formatos necessários.
+                O componente de processamento é onde os serviços manipulam dados nas formas necessárias.
+
+                O componente de consumo é onde os dados são apresentados nos formatos necessários.
+
+
+## Sobre o V de Volume
+
+        Quando as empresas têm mais dados do que conseguem processar e analisar, elas têm um problema de volume.
 
 ## Amazon S3
 
 O Amazon S3 é o armazenamento para a internet. Esse serviço foi projetado para facilitar a computação em escala web para os desenvolvedores. O Amazon S3 fornece uma interface simples de serviços da web que pode ser usada para armazenar e recuperar qualquer quantidade de dados, a qualquer momento e a partir de qualquer lugar. O serviço concede acesso a todos os desenvolvedores à mesma infraestrutura altamente escalável, confiável, segura, rápida e econômica que a Amazon utiliza para executar sua própria rede global de sites. O serviço tem como objetivo maximizar os benefícios de escala e repassar esses benefícios para os desenvolvedores.
-
 
 
 Os benefícios do Amazon S3 são:
@@ -89,6 +95,7 @@ https://**doc**.s3.amazonaws.com/**2006-03-01/AmazonS3**.html
 
         Bucket: doc, Key: 2006-03-01/AmazonS3.html, Prefixo: 2006-03-01/ 
 
+---
 
 ### Data Lake
 Um data lake é um repositório centralizado que permite armazenar dados estruturados, semiestruturados e não estruturados em qualquer escala. Você pode armazenar seus dados como estão, sem ter que estruturá-los, e executar diferentes tipos de análise, desde painéis e visualizações até big data e aprendizado de máquina, para orientar melhores decisões.
@@ -146,6 +153,7 @@ Benefícios do uso do Apache Hadoop
 
 ## sobre o V de Velocidade
 
+        Quando sua empresa não consegue processar dados com rapidez suficiente para atender às necessidades de negócios, você sabe que tem um problema de velocidade.
 
 A pressão nos sistemas de processamento varia de acordo com os requisitos de velocidade.
 
@@ -404,4 +412,9 @@ Perguntas que buscam recomendações com base em preferências ou histórico de 
 
 * Qual é o número médio de veículos detectados pela minha campainha de vídeo?
 Perguntas que exigem avaliação de vídeo, imagens e voz são respondidas usando avaliação cognitiva.
+---
+
+## Certificado de conclusão🥇:
+
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_6/Data_Analytics_Fundamentals/Certificado/Certificado_Data_Analytics_Fundamentals.png" width="600"> 
 
