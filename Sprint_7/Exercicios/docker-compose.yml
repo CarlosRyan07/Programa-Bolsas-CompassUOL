@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  developer:
+    image: jupyter/all-spark-notebook
+    volumes:
+      - ./:/home/jovyan/work
+    environment:
+      - USER=ryan
