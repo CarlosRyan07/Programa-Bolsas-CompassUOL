@@ -11,7 +11,7 @@ Nessa sprint, concentramos nossos esforços em dois cursos principais:
 2. **Formação Spark com Pyspark: o Curso Completo**
    - Este curso abrange tudo o que você precisa saber sobre Spark, uma das ferramentas mais populares para processamento de Big Data. Com a ajuda do Pyspark, a biblioteca Python para Spark, mergulhamos fundo em análise de dados e aprendizado de máquina em escala.
 
-Nessa Sprint demos boa praticada e Começamos também a 1° parte do Desafio Final.
+Nessa Sprint demos uma boa praticada e Começamos também a 1° parte do Desafio Final.
 
 As Praticas foram:
 
