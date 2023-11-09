@@ -3,7 +3,7 @@ Aqui vão estar organizado os passo a passo que nos foi pedido no Lab Glue.
 
 ## Criando um Usuario IAM
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Lab_Glue/Evidencias/1_Criando_Usuario_IAM.png" width=600>
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Lab_Glue/Evidencias/Criando_Usuario_IAM.png" width=600>
 
 
 Atualizamos a função de serviço padrão do AWS Glue e a definimos como padrão:
