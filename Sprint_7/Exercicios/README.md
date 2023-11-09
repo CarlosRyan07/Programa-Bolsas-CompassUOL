@@ -23,4 +23,4 @@ Utilizei o seguinte código:
 
 E aqui esta a imagem do codigo sendo utilizado e a resposta da contagem:
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Exercicios/Evidencias/ContagemPalavras.png" wigth= 800>
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Exercicios/Evidencias/ContagemPalavras.png" width= 800>
