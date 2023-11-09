@@ -1,4 +1,6 @@
 
+### Desafio Parte 1 - ETL
+
 
 Aqui tivemos o Desafio de criar código Python que carrega arquivos CSV para a Nuvem utilizando as técnicas de ETL.
 
@@ -18,6 +20,8 @@ Por exemplo:
 S3:\\data-lake-do-fulano\Raw\Local\CSV\Movies\2022\05\02\movies.csv
 
 S3:\\data-lake-do-fulano\Raw\Local\CSV\Series\2022\05\02\series.csv
+
+Utilizei o seguinte código:
 
     1passo.py
 
@@ -50,23 +54,17 @@ S3:\\data-lake-do-fulano\Raw\Local\CSV\Series\2022\05\02\series.csv
         s3.upload_file(caminho_local_series_csv, NOME_DO_BUCKET_S3, chave_s3_series)
  
 
-2) Criar container Docker com um volume para armazenar os arquivos CSV e executar processo Python implementado
+2) Criar container Docker com um volume para armazenar os arquivos CSV e executar processo Python implementado.
+3) Executar localmente o container docker para realizar a carga dos dados ao S3.
 
-3) Executar localmente o container docker para realizar a carga dos dados ao S3
+E aqui está essas 2 questões respondidas:
+
+![Docker Run Desafio](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Desafio1-ETL/Evidencias/DockerRunDesafio.png){width=600}
+
+E os Arquivos enviados para o bucket S3:
+
+![Movies Enviados](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Desafio1-ETL/Evidencias/Movies_Enviados.png){width=600}
 
 
+![Series Enviados](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Desafio1-ETL/Evidencias/Series_Enviados.png){width=600}
 
-print("Arquivos CSV enviados com sucesso para o S3.")
-2) Dockerfile
-
-FROM python:3.8
-FROM python:3.8
- 
-WORKDIR /app
- 
-COPY . /app
- 
-RUN pip install boto3
- 
-CMD ["python", "1passo.py"]
-3)
