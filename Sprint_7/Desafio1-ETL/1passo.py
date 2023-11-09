@@ -10,8 +10,8 @@ NOME_DO_BUCKET_S3 = 'ryan-desafio-bucket'
 ZONA_RAW = 'Raw/Local/CSV'
 data_atual = datetime.now().strftime('%Y/%m/%d')
  
-caminho_local_filmes_csv = 'files/Movies.csv'
-caminho_local_series_csv = 'files/Series.csv'
+caminho_local_filmes_csv = 'files/movies.csv'
+caminho_local_series_csv = 'files/series.csv'
  
 s3 = boto3.client('s3',
     aws_access_key_id=AWS_ACCESS_KEY_ID,
