@@ -59,12 +59,12 @@ Utilizei o seguinte código:
 
 E aqui está essas 2 questões respondidas:
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Desafio1-ETL/Evidencias/DockerRunDesafio.png" wigth=600>
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Desafio1-ETL/Evidencias/DockerRunDesafio.png" width=600>
 
 E os Arquivos enviados para o bucket S3:
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Desafio1-ETL/Evidencias/Movies_Enviados.png" wigth=600>
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Desafio1-ETL/Evidencias/Movies_Enviados.png" width=600>
 
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Desafio1-ETL/Evidencias/Series_Enviados.png" wigth=600>
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Desafio1-ETL/Evidencias/Series_Enviados.png" width=600>
 
