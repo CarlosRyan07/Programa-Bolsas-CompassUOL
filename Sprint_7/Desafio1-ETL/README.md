@@ -63,8 +63,8 @@ E aqui está essas 2 questões respondidas:
 
 E os Arquivos enviados para o bucket S3:
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Desafio1-ETL/Evidencias/Movies_Enviados.png" withg=600>
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Desafio1-ETL/Evidencias/Movies_Enviados.png" wigth=600>
 
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Desafio1-ETL/Evidencias/Series_Enviados.png" withg=600>
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Desafio1-ETL/Evidencias/Series_Enviados.png" wigth=600>
 
