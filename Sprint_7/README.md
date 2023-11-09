@@ -15,6 +15,6 @@ Nessa Sprint demos boa praticada e Começamos também a 1° parte do Desafio Fin
 
 As Praticas foram:
 
-* [Exercícios](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/d6e6d655662190973a604cb4783dc5ed0421c68b/Sprint_7/Exercicios)
-* [Lab Glue](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/d6e6d655662190973a604cb4783dc5ed0421c68b/Sprint_7/Lab_Glue)
-* [Desafio Parte 1 -ETL](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/0e2351bce9d947257ce1f2ada92a28b9fb2f47ac/Sprint_7/Desafio1-ETL)
+* [Exercícios](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Exercicios)
+* [Lab Glue](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Lab_Glue)
+* [Desafio Parte 1 -ETL](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Desafio1-ETL)
