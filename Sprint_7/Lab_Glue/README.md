@@ -75,6 +75,3 @@ E aqui está:
 
 <img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Lab_Glue/Evidencias/Crawler_TabelaCriada.png" width=600>
 
-Depois de darmos as devidas Permissões necéssarias, agora consultamos os dados:
-
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Lab_Glue/Evidencias/Crawler_Consultado_Dados.png" width=600>

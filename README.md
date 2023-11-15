@@ -73,7 +73,12 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 
 - [x] [Sprint 6](Sprint_6/README.md)
 
-- [ ] [Sprint 7](Sprint_7/README.md)
+- [x] [Sprint 7](Sprint_7/README.md)
+
+  - Curso : Learn By Example: Hadoop, MapReduce for Big Data problems
+
+  - Curso : Formação Spark com Pyspark: o Curso Completo
+
 - [ ] [Sprint 8](Sprint_8/README.md)
 - [ ] [Sprint 9](Sprint_9/README.md)
 - [ ] [Sprint 10](Sprint_10/README.md)
