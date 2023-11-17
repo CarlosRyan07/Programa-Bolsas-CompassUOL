@@ -1,8 +1,10 @@
+from datetime import datetime
 import os
 import json
 import requests
 import time
 import boto3
+
 
 TMDB_API_KEY = os.environ.get('TMDB_API_KEY')
 TMDB_API_TOKEN = os.environ.get('TMDB_API_TOKEN')
@@ -10,6 +12,7 @@ TMDB_API_TOKEN = os.environ.get('TMDB_API_TOKEN')
 S3_BUCKET_NAME = 'ryan-desafio-bucket'
 S3_PREFIX = 'Raw/Local/JSON'
 
+data_atual = datetime.now().strftime('%Y/%m/%d')
 # Inicialização de clientes
 s3 = boto3.client('s3')
 
@@ -28,7 +31,7 @@ def get_movie_data(movie_id, api_key):
 def save_movies_to_s3(filmes, contador):
     """Salva os filmes no S3."""
     file_name = f'filmes_arquivo_{contador}.json'
-    s3_path = f"{S3_PREFIX}/{file_name}"
+    s3_path = f"{S3_PREFIX}/{data_atual}/{file_name}"
 
     # Convertendo a lista de filmes para uma string JSON
     filmes_json = json.dumps(filmes, ensure_ascii=False, indent=4)
