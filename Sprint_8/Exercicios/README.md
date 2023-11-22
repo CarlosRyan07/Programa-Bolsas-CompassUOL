@@ -1,3 +1,6 @@
+## Exercicio 1 - TMDB 
+
+Aqui nos Exercicios que tivemos o primerio que foi o seguinte:
 
 ## Etapa 1 -  Criando sua conta no TMDB
 
@@ -30,7 +33,7 @@ E aqui esta a conta Criada:
 <img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_8/Exercicios/Evidencias/Conta_Criada_TMDB.png" width=600>
 
 .
-Etapa 2 - Testando rapidamente as credenciais e a biblioteca
+## Etapa 2 - Testando rapidamente as credenciais e a biblioteca
 
 
 Uma vez que você tenha sua chave de API, você pode fazer solicitações à API usando a seguinte estrutura de URL:
@@ -45,8 +48,25 @@ Onde {endpoint} é o recurso que você deseja acessar (por exemplo, movie/{movie
 
 
 
-Aqui está o codigo python que utilizei: [código Python](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/cebfe2ad81fba39d94d03b977a9f3fd342b9f840/Sprint_8/Exercicios/exer1.py)
+Aqui está o codigo python que utilizei: [código Python](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_8/Exercicios/exer1.py)
 
 
 E aqui o resultado obtido ao rodar o codigo:
 <img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_8/Exercicios/Evidencias/Resultado_Codigo.png" width=600>
+
+
+Após isso fomos para o [Desafio Parte 2](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_8/DesafioPart2-Ingestao_de_dados_TMDB)
+Porém ainda não acabou os exercicios por aqui, logo após o desafio seguimos abaixo.
+
+## Exercicio 2 - Gerar Massa de Dados
+
+Aqui não tem muito segredo fizemos as tarefas que são pré-requisitos para a execução do laboratório de Apache Spark na sequência.
+
+Tarefas essa que você pode acompanhar aqui: [Exercicios](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_8/Exercicios/Gerar_Massa_de_Dados/exercicios.ipynb)
+
+
+## Exercicio 3 - Apache Spark
+
+Neste laboratório usaremos um arquivo CSV o da ultima questão do exercicios anterior 'nomes_aleatorios.txt para criar um Dataframe e testar comandos SQL(como o arquivo era muito grande não consegui coloca-lo no github, porém se for no exercicio anterior e roda-lo, você o criará). Iremos utilizar o arquivo nomes_aleatorios.txt gerado na tarefa anterior. Esse arquivo tem aproximadamente 10 milhões de nomes distintos e apresenta os nomes mais populares registrados em cada ano.
+
+Teve um total de 10 questões nessa parte, que você pode acompanhar aqui: [sparkSession](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_8/Exercicios/Apache_Spark/sparkSession.ipynb)
