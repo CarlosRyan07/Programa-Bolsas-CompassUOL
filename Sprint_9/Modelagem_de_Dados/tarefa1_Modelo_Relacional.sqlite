@@ -1,0 +1,108 @@
+-- Criar Tabelas
+
+-- Tabela Cliente
+CREATE TABLE Cliente (
+    idCliente INT PRIMARY KEY,
+    nomeCliente VARCHAR(100),
+    cidadeCliente VARCHAR(40),
+    estadoCliente VARCHAR(40),
+    paisCliente VARCHAR(40)
+);
+
+-- Tabela Carro
+CREATE TABLE Carro (
+    idCarro INT PRIMARY KEY,
+    kmCarro INT,
+    classiCarro VARCHAR(50),
+    marcaCarro VARCHAR(80),
+    modeloCarro VARCHAR(80),
+    anoCarro INT,
+    idCombustivel INT,
+    FOREIGN KEY (idCombustivel) REFERENCES Combustivel(idCombustivel)
+);
+
+-- Tabela Combustivel
+CREATE TABLE Combustivel (
+    idcombustivel INT PRIMARY KEY,
+    tipoCombustivel VARCHAR(20)
+);
+
+-- Tabela Vendedor
+CREATE TABLE Vendedor (
+    idVendedor INT PRIMARY KEY,
+    nomeVendedor VARCHAR(15),
+    sexoVendedor SMALLINT,
+    estadoVendedor VARCHAR(40)
+);
+
+-- Tabela Locacao
+CREATE TABLE Locacao (
+    idLocacao INT PRIMARY KEY,
+    idCliente INT,
+    idCarro INT,
+    idVendedor INT,
+    dataLocacao DATE, -- Mudei o tipo de Dado de DATETIME para DATE ,pois no DATETIME também estão presentes os horarios, e já tem a coluna horaLocacao pra isso.
+    horaLocacao TIME,
+    qtdDiaria INT,
+    vlrDiaria DECIMAL(18,2),
+    dataEntrega DATE,
+    horaEntrega TIME,
+    FOREIGN KEY (idCliente) REFERENCES Cliente(idCliente),
+    FOREIGN KEY (idCarro) REFERENCES Carro(idCarro),
+    FOREIGN KEY (idVendedor) REFERENCES Vendedor(idVendedor)
+);
+
+-- Inserindo os Dados
+
+-- Inserir Dados na Tabela Cliente
+INSERT INTO Cliente (idCliente, nomeCliente, cidadeCliente, estadoCliente, paisCliente)
+SELECT DISTINCT idCliente, nomeCliente, cidadeCliente, estadoCliente, paisCliente
+FROM tb_locacao;
+
+
+-- Inserir Dados na Tabela Combustivel
+INSERT INTO Combustivel (idcombustivel, tipoCombustivel)
+SELECT DISTINCT idcombustivel, tipoCombustivel
+FROM tb_locacao;
+
+
+DELETE FROM Carro;
+
+-- Inserir Dados na Tabela Carro evitando duplicatas pois como estamos pegando os dados da tabela tb_locacao eles se repetem em determinado momento
+INSERT INTO Carro (idCarro, kmCarro, classiCarro, marcaCarro, modeloCarro, anoCarro, idCombustivel)
+SELECT
+    DISTINCT idCarro,
+    MAX(kmCarro) AS kmCarro,
+    MAX(classiCarro) AS classiCarro,
+    MAX(marcaCarro) AS marcaCarro,
+    MAX(modeloCarro) AS modeloCarro,
+    MAX(anoCarro) AS anoCarro,
+    MAX(idCombustivel) AS idCombustivel
+FROM tb_locacao
+GROUP BY idCarro;
+
+
+-- Inserir Dados na Tabela Vendedor
+INSERT INTO Vendedor (idVendedor, nomeVendedor, sexoVendedor, estadoVendedor)
+SELECT DISTINCT idVendedor, nomeVendedor, sexoVendedor, estadoVendedor
+FROM tb_locacao;
+
+-- Notei que o formato atual da dataLocação e dataEntrega estão saindo assim ex: 20.150.110
+-- Então aqui estou alterando para o formato convencional do DATE(YYYY-MM-DD),
+UPDATE tb_locacao
+SET dataLocacao = SUBSTR(dataLocacao, 1, 4) || '-' || SUBSTR(dataLocacao, 7, 2) || '-' || SUBSTR(dataLocacao, 5, 2);
+
+UPDATE tb_locacao
+SET dataEntrega = SUBSTR(dataEntrega, 1, 4) || '-' || SUBSTR(dataEntrega, 5, 2) || '-' || SUBSTR(dataEntrega, 7, 2);
+
+   
+-- Inserir Dados na Tabela Locacao
+INSERT INTO Locacao (idLocacao, idCliente, idCarro, idVendedor, dataLocacao, horaLocacao, qtdDiaria, vlrDiaria, dataEntrega, horaEntrega)
+SELECT
+    idLocacao, idCliente, idCarro, idVendedor, dataLocacao, horaLocacao,
+    qtdDiaria, vlrDiaria, dataEntrega, horaEntrega
+FROM tb_locacao;
+
+SELECT * FROM Carro c  l 
+
+Drop table Locacao
