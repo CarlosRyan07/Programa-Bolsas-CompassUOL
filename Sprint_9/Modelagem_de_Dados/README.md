@@ -45,5 +45,3 @@ Vendo isso eu mudei o tipo de DATETIME para DATE ,pois no DATETIME também estã
 Ainda sobre essa coluna e também sobre a coluna dataEntrega,
 os dados dessas tabelas estavam vindo desse jeito Ex: 20.150.101.
 Então fiz uma lógica para elas ficarem no formato tradicional(YY-MM-DD).
-
-Eae Isabela me dê uma luz ai kkkk
