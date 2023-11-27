@@ -41,7 +41,7 @@ CREATE TABLE Locacao (
     idCliente INT,
     idCarro INT,
     idVendedor INT,
-    dataLocacao DATE, -- Mudei o tipo de Dado de DATETIME para DATE ,pois no DATETIME também estão presentes os horarios, e já tem a coluna horaLocacao pra isso.
+    dataLocacao DATE, -- Mudei o tipo de Dado de DATETIME para DATE nessa nova tabela, pois no DATETIME também estão presentes os horarios, e já tem a coluna horaLocacao pra isso.
     horaLocacao TIME,
     qtdDiaria INT,
     vlrDiaria DECIMAL(18,2),
@@ -66,8 +66,6 @@ SELECT DISTINCT idcombustivel, tipoCombustivel
 FROM tb_locacao;
 
 
-DELETE FROM Carro;
-
 -- Inserir Dados na Tabela Carro evitando duplicatas pois como estamos pegando os dados da tabela tb_locacao eles se repetem em determinado momento
 INSERT INTO Carro (idCarro, kmCarro, classiCarro, marcaCarro, modeloCarro, anoCarro, idCombustivel)
 SELECT
@@ -87,15 +85,7 @@ INSERT INTO Vendedor (idVendedor, nomeVendedor, sexoVendedor, estadoVendedor)
 SELECT DISTINCT idVendedor, nomeVendedor, sexoVendedor, estadoVendedor
 FROM tb_locacao;
 
--- Notei que o formato atual da dataLocação e dataEntrega estão saindo assim ex: 20.150.110
--- Então aqui estou alterando para o formato convencional do DATE(YYYY-MM-DD),
-UPDATE tb_locacao
-SET dataLocacao = SUBSTR(dataLocacao, 1, 4) || '-' || SUBSTR(dataLocacao, 7, 2) || '-' || SUBSTR(dataLocacao, 5, 2);
 
-UPDATE tb_locacao
-SET dataEntrega = SUBSTR(dataEntrega, 1, 4) || '-' || SUBSTR(dataEntrega, 5, 2) || '-' || SUBSTR(dataEntrega, 7, 2);
-
-   
 -- Inserir Dados na Tabela Locacao
 INSERT INTO Locacao (idLocacao, idCliente, idCarro, idVendedor, dataLocacao, horaLocacao, qtdDiaria, vlrDiaria, dataEntrega, horaEntrega)
 SELECT
@@ -103,6 +93,12 @@ SELECT
     qtdDiaria, vlrDiaria, dataEntrega, horaEntrega
 FROM tb_locacao;
 
-SELECT * FROM Carro c  l 
 
-Drop table Locacao
+-- Notei que o formato atual da dataLocação e dataEntrega estão saindo assim ex: 20.150.110
+-- Então aqui estou alterando para o formato convencional do DATE(YYYY-MM-DD)
+
+UPDATE Locacao
+SET dataLocacao = SUBSTR(dataLocacao, 1, 4) || '-' || SUBSTR(dataLocacao, 7, 2) || '-' || SUBSTR(dataLocacao, 5, 2);
+
+UPDATE Locacao
+SET dataEntrega = SUBSTR(dataEntrega, 1, 4) || '-' || SUBSTR(dataEntrega, 5, 2) || '-' || SUBSTR(dataEntrega, 7, 2);
