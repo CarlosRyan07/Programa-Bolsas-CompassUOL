@@ -1,0 +1,74 @@
+
+-- Criação das Views
+
+-- View para Dimensão Cliente
+CREATE VIEW DimCliente AS
+SELECT
+    idCliente AS idCliente,
+    nomeCliente AS Nome,
+    cidadeCliente AS Cidade,
+    estadoCliente AS Estado,
+    paisCliente AS Pais
+FROM Cliente;
+
+-- View para Dimensão Vendedor
+CREATE VIEW DimVendedor AS
+SELECT
+    idVendedor AS idVendedor,
+    nomeVendedor AS Nome,
+    sexoVendedor AS Sexo,
+    estadoVendedor AS Estado
+FROM Vendedor;
+
+-- View para Dimensão Carro
+CREATE VIEW DimCarro AS
+SELECT
+    C.idCarro AS idCarro,
+    C.kmCarro AS Quilometragem,
+    C.classiCarro AS Classificacao,
+    C.marcaCarro AS Marca,
+    C.modeloCarro AS Modelo,
+    C.anoCarro AS Ano,
+    C.idCombustivel AS idCombustivel,
+    CO.tipoCombustivel AS Combustivel
+FROM Carro C
+JOIN Combustivel CO ON C.idCombustivel = CO.idCombustivel;
+
+
+-- View para Dimensão Tempo
+CREATE VIEW DimTempo AS
+SELECT
+    DISTINCT
+    dataLocacao AS DataLocacao,
+    horaLocacao AS HoraLocacao,
+    SUBSTR(dataLocacao, 1, 4) AS AnoLocacao,
+    SUBSTR(dataLocacao, 6, 2) AS MesLocacao,
+    SUBSTR(dataLocacao, 9, 2) AS DiaLocacao,
+    dataEntrega AS DataEntrega,
+    horaEntrega AS HoraEntrega,
+    SUBSTR(dataEntrega, 1, 4) AS AnoEntrega,
+    SUBSTR(dataEntrega, 6, 2) AS MesEntrega,
+    SUBSTR(dataEntrega, 9, 2) AS DiaEntrega
+FROM Locacao;
+
+CREATE VIEW FatoLocacao AS
+SELECT
+    L.idLocacao AS idLocacao,
+    C.idCliente AS idCliente,
+    Ca.idCarro AS idCarro,
+    V.idVendedor AS idVendedor,
+    T.DataLocacao,
+    T.HoraLocacao,
+    L.qtdDiaria AS QuantidadeDiaria,
+    L.vlrDiaria AS ValorDiario,
+    T.DataEntrega,
+    T.HoraEntrega
+FROM Locacao L
+JOIN DimCliente C ON L.idCliente = C.idCliente
+JOIN DimCarro Ca ON L.idCarro = Ca.idCarro
+JOIN DimVendedor V ON L.idVendedor = V.idVendedor
+JOIN DimTempo T ON L.dataLocacao = T.DataLocacao AND L.horaLocacao = T.HoraLocacao;
+
+
+SELECT * FROM FatoLocacao fl 
+

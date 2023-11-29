@@ -98,7 +98,7 @@ FROM tb_locacao;
 -- Então aqui estou alterando para o formato convencional do DATE(YYYY-MM-DD)
 
 UPDATE Locacao
-SET dataLocacao = SUBSTR(dataLocacao, 1, 4) || '-' || SUBSTR(dataLocacao, 7, 2) || '-' || SUBSTR(dataLocacao, 5, 2);
+SET dataLocacao = SUBSTR(dataLocacao, 1, 4) || '-' || SUBSTR(dataLocacao, 5, 2) || '-' || SUBSTR(dataLocacao, 7, 2);
 
 UPDATE Locacao
 SET dataEntrega = SUBSTR(dataEntrega, 1, 4) || '-' || SUBSTR(dataEntrega, 5, 2) || '-' || SUBSTR(dataEntrega, 7, 2);

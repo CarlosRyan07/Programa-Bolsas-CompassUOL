@@ -1,0 +1,87 @@
+
+-- Criando as tabelas
+
+-- Tabela para Dimensão Cliente
+CREATE TABLE TB_DimCliente AS
+SELECT
+    idCliente,
+    Nome,
+    Cidade,
+    Estado,
+    Pais
+FROM DimCliente;
+
+-- Tabela para Dimensão Vendedor
+CREATE TABLE TB_DimVendedor AS
+SELECT
+    idVendedor,
+    Nome,
+    Sexo,
+    Estado
+FROM DimVendedor;
+
+-- Tabela para Dimensão Carro
+CREATE TABLE TB_DimCarro AS
+SELECT
+    idCarro,
+    Quilometragem,
+    Classificacao,
+    Marca,
+    Modelo,
+    Ano,
+    idCombustivel,
+    Combustivel
+FROM DimCarro;
+
+-- Tabela para Dimensão Tempo
+CREATE TABLE TB_DimTempo AS
+SELECT
+    DataLocacao,
+    HoraLocacao,
+    AnoLocacao,
+    MesLocacao,
+    DiaLocacao,
+    DataEntrega,
+    HoraEntrega,
+    AnoEntrega,
+    MesEntrega,
+    DiaEntrega
+FROM DimTempo;
+
+-- na tabela TB_FatoLocacao, percebi que teria que cria-la desse jeito para poder permitir suas relações
+
+CREATE TABLE TB_FatoLocacao (
+    idLocacao INT PRIMARY KEY,
+    idCliente INT,
+    idCarro INT,
+    idVendedor INT,
+    DataLocacao DATE,
+    HoraLocacao TIME,
+    QuantidadeDiaria INT,
+    ValorDiario DECIMAL(18,2),
+    DataEntrega DATE,
+    HoraEntrega TIME,
+    FOREIGN KEY (idCliente) REFERENCES TB_DimCliente(idCliente),
+    FOREIGN KEY (idCarro) REFERENCES TB_DimCarro(idCarro),
+    FOREIGN KEY (idVendedor) REFERENCES TB_DimVendedor(idVendedor),
+    FOREIGN KEY (DataLocacao) REFERENCES TB_DimTempo(DataLocacao)
+);
+
+INSERT INTO TB_FatoLocacao
+SELECT
+    L.idLocacao,
+    C.idCliente,
+    Ca.idCarro,
+    V.idVendedor,
+    T.DataLocacao,
+    T.HoraLocacao,
+    L.QuantidadeDiaria,
+    L.ValorDiario,
+    T.DataEntrega,
+    T.HoraEntrega
+FROM FatoLocacao L
+JOIN TB_DimCliente C ON L.idCliente = C.idCliente
+JOIN TB_DimCarro Ca ON L.idCarro = Ca.idCarro
+JOIN TB_DimVendedor V ON L.idVendedor = V.idVendedor
+JOIN TB_DimTempo T ON L.DataLocacao = T.DataLocacao;
+
