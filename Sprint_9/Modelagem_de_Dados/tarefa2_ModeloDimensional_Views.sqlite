@@ -67,7 +67,7 @@ FROM Locacao L
 JOIN DimCliente C ON L.idCliente = C.idCliente
 JOIN DimCarro Ca ON L.idCarro = Ca.idCarro
 JOIN DimVendedor V ON L.idVendedor = V.idVendedor
-JOIN DimTempo T ON L.dataLocacao = T.DataLocacao AND L.horaLocacao = T.HoraLocacao;
+JOIN DimTempo T ON L.dataLocacao = T.DataLocacao
 
 
 SELECT * FROM FatoLocacao fl 
