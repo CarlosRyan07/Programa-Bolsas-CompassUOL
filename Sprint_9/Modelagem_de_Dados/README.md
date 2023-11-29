@@ -85,7 +85,9 @@ E aqui esta como ficou nosso Modelo Estrela:
 
 ![Modelo Estrela](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_9/Modelagem_de_Dados/Evidencias/Modelo_Dimensional_Estrela.png)
 
+OBS: não sei se era pra ter criado as tabelas mesmo ou apenas ligar as relaçoes nas views desse jeito:
 
+![Modelo Estrela](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_9/Modelagem_de_Dados/Evidencias/View_estrela.png)
 
-
+Duvida aqui Isa❗❗❗
 
