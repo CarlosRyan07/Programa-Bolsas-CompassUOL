@@ -13,7 +13,7 @@ E então a Anexamos:
 
 <img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_8/DesafioPart2-Ingestao_de_dados_TMDB/Evidencias/3_Politica_Anexada.png" width=600>
 
-Código utilizado no Lambda você o encontra clicando aqui: [lambda_function.py]("https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/fd7963e643b846209d04f978d1019374a0b56c5a/Sprint_8/DesafioPart2-Ingestao_de_dados_TMDB/ingestaoLambda.py")
+Código utilizado no Lambda você o encontra clicando aqui: [lambda_function.py]("https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_8/DesafioPart2-Ingestao_de_dados_TMDB/ingestaoLambda.py")
 
 Apos rodarmos o codigo da função lambda, vamos ver os logs da sua execução  no CloudWatch Logs:
 
