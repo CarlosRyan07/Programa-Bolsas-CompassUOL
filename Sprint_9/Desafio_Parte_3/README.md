@@ -13,7 +13,7 @@ Aqui faremos uso do Apache Spark no processo, integrando dados existentes na cam
 
 Todos os dados serão persistidos na Trusted no formato PARQUET, que é um formato colunar, otimizado para processamento analítico.  O formato PARQUET é o formato mais utilizado em data lakes, pois permite a execução de queries SQL de forma eficiente, além de ser um formato colunar, que permite a leitura de colunas específicas, sem a necessidade de leitura de todas as colunas, como ocorre em formatos como CSV.
 
-e aqui está o codigo que utilizei nos jobs do Glue utilizando a opção Spark script editor: [Processamento na camada Trusted](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_9/Desafio_Parte_3/ingestaoTrusted.py)
+e aqui está o codigo que utilizei nos jobs do Glue utilizando a opção Spark script editor: [Processamento na camada Trusted](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_9/Desafio_Parte_3/processamentoTrusted.py)
 
 Aqui os logs do codigo:
 
