@@ -17,4 +17,4 @@ As Praticas foram:
 
 * [Exercícios](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Exercicios)
 * [Lab Glue](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Lab_Glue)
-* [Desafio Parte 1 -ETL](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/Desafio1-ETL)
+* [Desafio Parte 1 -ETL](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_7/DesafioPart1-ETL)

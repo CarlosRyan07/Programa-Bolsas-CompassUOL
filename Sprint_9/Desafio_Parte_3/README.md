@@ -19,3 +19,12 @@ Aqui os logs do codigo:
 
 ![Logs](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_9/Desafio_Parte_3/Evidencias/Logs_Processamento_Trusted.png)
 
+## Modelagem de dados - Camada Refined
+
+Aqui vamos fazer a modelagem dos dados que estão na camada Trusted, e vamos injetar os dados na camada Refined.
+A camada Refined corresponde à camada de um data lake em que os dados estão prontos para análise e extração de insights. Sua origem corresponde aos dados da camada anterior, a Trusted.
+
+Devemos pensar em estruturar os dados seguindo os princípios de modelagem multidimensional, a fim de permitir consultas sobre diferentes perspectivas.
+
+Nesta etapa do desafio, devemos fazer a modelagem de dados da camada refined, definindo as tabelas e, se necessário, views, a fim de disponibilizar os dados para a ferramenta de visualização (QuickSight, a partir da próxima Sprint). 
+
