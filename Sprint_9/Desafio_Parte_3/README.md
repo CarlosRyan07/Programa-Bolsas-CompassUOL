@@ -28,3 +28,6 @@ Devemos pensar em estruturar os dados seguindo os princípios de modelagem multi
 
 Nesta etapa do desafio, devemos fazer a modelagem de dados da camada refined, definindo as tabelas e, se necessário, views, a fim de disponibilizar os dados para a ferramenta de visualização (QuickSight, a partir da próxima Sprint). 
 
+![Modelagem](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_9/Desafio_Parte_3/Evidencias/ModelagemRefined.png)
+
+
