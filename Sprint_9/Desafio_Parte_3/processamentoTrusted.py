@@ -27,7 +27,8 @@ try:
 
     print("Aplicando transformações...")
     # Continuar com as transformações necessárias
-    details_data = details_data.drop("adult").na.drop()
+    columns_to_drop = ["adult", "tagline", "homepage"]
+    details_data = details_data.drop(*columns_to_drop).na.drop()
 
     print("Salvando dados transformados no formato Parquet...")
     # Salvar dados transformados no formato Parquet

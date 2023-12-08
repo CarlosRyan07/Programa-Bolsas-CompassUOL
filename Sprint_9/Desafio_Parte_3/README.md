@@ -30,5 +30,9 @@ Nesta etapa do desafio, devemos fazer a modelagem de dados da camada refined, de
 
 ![Modelagem](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_9/Desafio_Parte_3/Evidencias/ModelagemRefined.png)
 
+e utilizando esse codigo: [DadosRefined](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_9/Desafio_Parte_3/dadosRefined.py).
+Criei as pastas para as Dimensões e Fatos na Refined.
+
+E aqui no Athena um exemplo de uma query das tabelas:
 
 ![Dados no Athena](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_9/Desafio_Parte_3/Evidencias/Dados_no_Athena.png)
