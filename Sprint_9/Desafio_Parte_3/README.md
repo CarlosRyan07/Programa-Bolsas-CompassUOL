@@ -31,3 +31,4 @@ Nesta etapa do desafio, devemos fazer a modelagem de dados da camada refined, de
 ![Modelagem](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_9/Desafio_Parte_3/Evidencias/ModelagemRefined.png)
 
 
+![Dados no Athena](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_9/Desafio_Parte_3/Evidencias/Dados_no_Athena.png)
