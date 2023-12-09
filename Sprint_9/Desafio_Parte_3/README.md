@@ -30,8 +30,9 @@ Nesta etapa do desafio, devemos fazer a modelagem de dados da camada refined, de
 
 ![Modelagem](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_9/Desafio_Parte_3/Evidencias/ModelagemRefined.png)
 
-e utilizando esse codigo: [DadosRefined](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_9/Desafio_Parte_3/dadosRefined.py).
-Criei as pastas para as Dimensões e Fatos na Refined.
+e depois de uma revisão, mudei as tabelas que tinha, exclui a tabela dim_idioma, e deixe o atributo "original_language" na tabela de filmes.
+
+Seguindo em frente utilizando esse codigo: [DadosRefined](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_9/Desafio_Parte_3/dadosRefined.py) eu consegui dar prosseguimento, foi uma luta danada, e não ficou exatamente com eu gostaria, mas devido a falta de tempo e ao final de período na faculdade ficou assim, e então criei as pastas para as Dimensões e Fatos na Refined.
 
 E aqui no Athena um exemplo de uma query das tabelas:
 
