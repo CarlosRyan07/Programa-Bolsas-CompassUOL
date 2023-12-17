@@ -42,7 +42,7 @@ A Descrição do Desafio era:
 
 Certificado do Curso🥇:
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_Docker_para_Desenvolvedores.jpg" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_4/Evidencias/Certificado_Docker_para_Desenvolvedores.jpg" width="600">
 
 
 ---
@@ -57,4 +57,4 @@ Achei bem interessante a abordagem que nos foram dada sobre o assunto, pois a Es
 
 Certificado do Curso🥇:
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Estatisticas_Descritivas_Python.jpg" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_4/Evidencias/Estatisticas_Descritivas_Python.jpg" width="600">

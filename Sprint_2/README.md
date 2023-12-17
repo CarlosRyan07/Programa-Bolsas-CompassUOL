@@ -25,7 +25,7 @@ O curso foi ministrado pela Analista de negócios e instrutora Midori Toyota, qu
 
 #### Certificado do Curso🥇:
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_SQL_Para_Análise_De_Dados.jpg" alt="SQL para Análise de Dados" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_2/Evidencias/Certificado_SQL_Para_An%C3%A1lise_De_Dados.jpg" alt="SQL para Análise de Dados" width="600">
 
 ---
 
@@ -39,6 +39,6 @@ Logo abaixo o resultado da prova de 50 questões para poder tirar o Certificado.
 
 #### Certificado do Curso🥇:
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_BigData_3.0.jpg" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_2/Evidencias/Certificado_BigData_3.0.jpg" width="600">
 
 ╰(*°▽°*)╯

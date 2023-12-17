@@ -14,7 +14,7 @@ Segue abaixo uma imagem da pratica.
 
 Certificado do Curso🥇:
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_Git_e_Github.jpg" alt="Certificado do Git e Github" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_1/Evidencias/Certificado_Git_e_Github.jpg" width="600">
 
 ---
 
@@ -25,6 +25,6 @@ A medida que avanço no programa de bolsas, pretendo continuar alimentando esse 
 
 Certificado do Curso🥇:
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Certificado_Linux.jpg" alt="Certificado de Linux" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_1/Evidencias/Certificado_Linux.jpg" alt="Certificado de Linux" width="600">
 
 ╰( °▽°)╯
