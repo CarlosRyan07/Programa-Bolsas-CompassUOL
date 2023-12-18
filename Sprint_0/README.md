@@ -35,7 +35,7 @@ User story: Uma descrição de uma pequena funcionalidade que um usuário precis
 Storyboard: Uma representação visual da experiência do usuário.
 Essas ferramentas são essenciais para o sucesso de qualquer projeto ágil.
 
-![Certificado](Sprint_0\Evidencias\Certificado_Metodologias_Ageis.png)
+![Certificado](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/52b3f8fb5e14d6c5241af5f04ee50b760b969e10/Sprint_0/Evidencias/Certificado_Metodologias_Ageis.png)
 
 ## Segurança da Informação
 
@@ -52,4 +52,4 @@ Pentest: aprendemos sobre os diferentes tipos de testes de penetração (pentest
 Ao final do curso, estamos preparados para identificar e corrigir vulnerabilidades em aplicações web. Também estamos familiarizados com as melhores práticas para proteger aplicações web contra ataques.
 
 
-![Certificado](Sprint_0\Evidencias\Certificado_Seguranca.png)
+![Certificado](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/52b3f8fb5e14d6c5241af5f04ee50b760b969e10/Sprint_0/Evidencias/Certificado_Seguranca.png)
