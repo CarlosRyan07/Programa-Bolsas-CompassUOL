@@ -45,6 +45,8 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 
 ---
 
+- [x] [Sprint 0](Sprint_0/README.md)
+
 - [x] [Sprint 1](Sprint_1/README.md)
 
   - Curso: Git e Github do básico ao avançado
@@ -79,9 +81,9 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 
   - Curso : Formação Spark com Pyspark: o Curso Completo
 
-- [ ] [Sprint 8](Sprint_8/README.md)
-- [ ] [Sprint 9](Sprint_9/README.md)
-- [ ] [Sprint 10](Sprint_10/README.md)
+- [x] [Sprint 8](Sprint_8/README.md)
+- [x] [Sprint 9](Sprint_9/README.md)
+- [x] [Sprint 10](Sprint_10/README.md)
 
 ---
 ## Desafio
