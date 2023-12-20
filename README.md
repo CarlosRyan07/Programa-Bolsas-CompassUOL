@@ -87,7 +87,7 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 
 ---
 ## Desafio
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXlkY2xhY3Nwb3htZ2M5dTN6cjFibm4zZTJyYXh0c2F1YXZxNXg3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eGFi0D9UVNvtT8xk1e/giphy.gif" width="100"/>
 
-1. [Desafio Final](Desafio/README.md)
+1. [Desafio Final](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_10/DashboardRyan.pdf)
 
+Para mais detalhes sobre ele visite a Sprint 10.
