@@ -23,4 +23,12 @@ e assim surgiu o meu dashboard:
 
 ![DashboardRyan](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_10/Evidencias/ImagemDashboard.png)
 
-"Como conhecimentos obtidos no decorrer do programade bolsas podem gerar valor para os clientes da Compass?"
+
+Conseguimos observar que houve uma diminuida na quantidade de filmes lançados de 2019 adiante, voltando a crescer aos poucos apenas de 2021, e isso foi por conta da pandemia do COVID-19. Que fez varia produções serem adiadas.
+
+Podemos perceber que os Estados Unidos é o país que mais produz filmes é o pais que mais domina o mercado cinematográfico.
+Historicamente, os Estados Unidos têm sido líderes em termos de investimento e produção cinematográfica, com Hollywood sendo o epicentro da indústria do entretenimento.
+Porém, embora os Estados Unidos historicamente tenham sido líderes, o cenário está mudando, e outros países estão aumentando seu investimento e impacto na produção cinematográfica global.
+
+
+Notamos tbm que os filmes mais populares, uma boa parte é de filmes mais recentes, e isso acontece pq qnd o filme é lançado tem toda uma questão de hype e de propaganda pra atrairem o publico, porem conforme o tempo for passando e as pessoas continuarem avaliando os filmes, eles tendem a abaixar ou se manter a depender da media de votos. 
