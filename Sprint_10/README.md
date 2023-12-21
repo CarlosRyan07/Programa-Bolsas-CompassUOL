@@ -8,4 +8,19 @@ Atraves do Amazon QuickSight, vamos criar um dashboard com os dados das tabelas 
 
 Então aos poucos meu Dashboard foi tomando forma para responder as seguintes perguntas:
 
+1. Qual ano com mais lançamentos de filmes?
+2. Qual o filme com maior renda?
+3. qual o comparativo dos filmes com maior renda e o seus orçamentos?
+4. Qual os filmes mais populares e suas respectivas notas
+5. quais os generos dos filmes mais populares?
+6. Qual País produziu mais filmes?
+7. Quais são as Empresas mais populares?
+8. qual as 5 Maiores Receitas Totais do gênero Crime de cada Pais de Produção por Ano?
 
+e assim surgiu o meu dashboard:
+
+<img scr="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_10/Evidencias/ImagemDashboard.png" width=600>
+
+![DashboardRyan](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_10/Evidencias/ImagemDashboard.png)
+
+"Como conhecimentos obtidos no decorrer do programade bolsas podem gerar valor para os clientes da Compass?"
