@@ -5,9 +5,10 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
  
 ## Olá!👋
 
-<div>
-  <img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Eu.png" width=600 align="center">
-</div> 
+
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Eu.png" width=400>
+
+
 
 - 🙋‍♂️Meu nome é Carlos Ryan, e é um prazer compartilhar um pouco sobre mim. Atualmente, residente na cidade de Serra Branca, onde trabalho como Moto-Taxi.
 - 🧑‍💻Sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB), onde estou cursando o 4° período.
