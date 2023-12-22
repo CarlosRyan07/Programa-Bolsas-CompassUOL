@@ -5,6 +5,10 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
  
 ## Olá!👋
 
+<div>
+  <img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/img/Eu.png" width=600 align="center">
+</div> 
+
 - 🙋‍♂️Meu nome é Carlos Ryan, e é um prazer compartilhar um pouco sobre mim. Atualmente, residente na cidade de Serra Branca, onde trabalho como Moto-Taxi.
 - 🧑‍💻Sou estudante do curso de Análise e Desenvolvimento de Sistemas no Instituto Federal da Paraíba (IFPB), onde estou cursando o 4° período.
 - 📚Minha paixão e um pouco de masoquismo da minha parte(e acho que outros programadores compartilham dessa opinião, tendo em vistas os estresses proveniente da nossa aréa 😅) pela tecnologia e programação tem me motivado a explorar diversos aspectos do mundo digital.
@@ -49,27 +53,11 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 
 - [x] [Sprint 1](Sprint_1/README.md)
 
-  - Curso: Git e Github do básico ao avançado
-  
-  - Curso: Linux para Desenvolvedores
-
 - [x] [Sprint 2](Sprint_2/README.md)
 
-  - Curso: SQL para Análise de Dados
-
-  - Curso: Big Data Fundamentos 3.0
-
 - [x] [Sprint 3](Sprint_3/README.md)
-  
-  - Curso : Python 3 - Curso Completo do Básico ao Avançado - Parte 1
     
 - [x] [Sprint 4](Sprint_4/README.md)
-
-  - Curso : Python 3 - Curso Completo do Básico ao Avançado - Parte 2
-
-  - Curso : Docker para Desenvolvedores (com Docker Swarm e Kubernetes)
-
-  - Curso : Estatística Descritiva com Python
 
 - [x] [Sprint 5](Sprint_5/README.md)
 
@@ -77,12 +65,10 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 
 - [x] [Sprint 7](Sprint_7/README.md)
 
-  - Curso : Learn By Example: Hadoop, MapReduce for Big Data problems
-
-  - Curso : Formação Spark com Pyspark: o Curso Completo
-
 - [x] [Sprint 8](Sprint_8/README.md)
+
 - [x] [Sprint 9](Sprint_9/README.md)
+
 - [x] [Sprint 10](Sprint_10/README.md)
 
 ---
