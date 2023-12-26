@@ -69,7 +69,7 @@ A MPA ajuda os clientes a analisarem os dados sobre o inventário atual de TI on
 Também podem usar esses dados para estimar o nível de trabalho e os custos associados à migração e para calcular as taxas de execução anuais dos recursos de computação e de armazenamento na AWS. Essas informações geralmente definem o conjunto de dados completo necessário para analisar e priorizar corretamente as migrações de aplicativos.
 
 
-Ao final desse curso, teve um teste de conhecimento de 20 [questões](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Aspectos_Economicos_Nuvem/questoes.txt) no qual passava se obtesse nota mais que 80%.
+Ao final desse curso, teve um teste de conhecimento de 20 [questões](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Aspectos_Economicos_Nuvem/questoes.md) no qual passava se obtesse nota mais que 80%.
 Abaixo esta a Evidencia do teste de conhecimento.
 
 <img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Aspectos_Economicos_Nuvem/Certificados/Captura_de_tela_2023-10-06_110512.png" width="600">
