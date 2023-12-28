@@ -6,15 +6,15 @@ Esse curso foi um dos mais importantes para mim, pois foi o que me deu a base pa
 O curso foi dividido em varios Modulos sendo eles:
 
 1. [Cloud Concepts](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Exam_Practitioner/1_Cloud_Concepts)
-2. [Security and Compliance](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/647233aa7dfb703bccc6b2b69ae220a923d672df/Sprint_5/Exam_Practitioner/2_Security_Compliance)
-3. [Technology](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/ff6b52ddf1b0b44fbed373e782f04ac4dac57cc3/Sprint_5/Exam_Practitioner/3_Technology)
-4. [Biling and Pricing](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/ff6b52ddf1b0b44fbed373e782f04ac4dac57cc3/Sprint_5/Exam_Practitioner/4_Billing_and_Pricing)
+2. [Security and Compliance](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Exam_Practitioner/2_Security_Compliance)
+3. [Technology](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Exam_Practitioner/3_Technology)
+4. [Biling and Pricing](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Exam_Practitioner/4_Billing_and_Pricing)
 
 
 Nesse curso não teve uma avaliação ao final, tendo em que sua proposta era diferente dos outros e a cada 2 videos tinhamos um quiz para testar o conhecimento adquirido.
 
 ### Certificado do Curso🥇:
 
-<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/ff6b52ddf1b0b44fbed373e782f04ac4dac57cc3/Sprint_5/Exam_Practitioner/Certificados/Certificado_AWS_Certified_Cloud_Practitioner.png" width="600">
+<img src="https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Exam_Practitioner/Certificados/Certificado_AWS_Certified_Cloud_Practitioner.png" width="600">
 
 

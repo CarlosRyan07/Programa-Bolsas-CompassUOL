@@ -7,7 +7,7 @@ Um modelo distintivo foi adotado, no qual cada curso e suas respectivas descober
 
 Os cursos vistos nessa sprint foram:
 
-1. [AWS Partner: Sales Accreditation](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Accreditation)
+1. [AWS Partner: Accreditation (Technical)](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Accreditation)
 2. [AWS: Cloud Quest](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Cloud_Quest)
 3. [AWS Partner: Aspectos Econômicos da Nuvem](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Aspectos_Economicos_Nuvem)
 4. [AWS Partner: Sales Accreditation](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Sales_Creditation)

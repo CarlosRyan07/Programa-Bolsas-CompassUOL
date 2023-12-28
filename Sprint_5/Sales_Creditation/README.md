@@ -8,10 +8,10 @@ Essa acreditação é fundamental para garantir que os membros da equipe de vend
 
 O curso foi dividido nos seguintes Modulos sendo eles:
 
-1. [Conceitos de Nuvem e AWS](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/69aee439c53cf2b84da433e870f26f4b46982d1f/Sprint_5/Sales_Creditation/Conceito_Nuvem)
-2. [Valor Comercial](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/69aee439c53cf2b84da433e870f26f4b46982d1f/Sprint_5/Sales_Creditation/ValorComercial_Nuvem)
-3. [Objeções a Nuvem](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/69aee439c53cf2b84da433e870f26f4b46982d1f/Sprint_5/Sales_Creditation/Objecoes_Nuvem)
-4. [Venda Conjunta com AWS](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/69aee439c53cf2b84da433e870f26f4b46982d1f/Sprint_5/Sales_Creditation/VendaConjunta_AWS)
+1. [Conceitos de Nuvem e AWS](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Sales_Creditation/Conceito_Nuvem)
+2. [Valor Comercial](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Sales_Creditation/ValorComercial_Nuvem)
+3. [Objeções a Nuvem](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Sales_Creditation/Objecoes_Nuvem)
+4. [Venda Conjunta com AWS](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Sales_Creditation/VendaConjunta_AWS)
 
 para mais informações clique em cada um dos modulos acima.
 

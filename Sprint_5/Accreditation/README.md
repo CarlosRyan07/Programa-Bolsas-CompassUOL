@@ -4,10 +4,10 @@ O treinamento AWS Partner: Accreditation (Technical) representa uma iniciativa e
 
 O curso foi dividido em varios Modulos sendo eles:
 
-1. [Introdução as Tecnologias Essenciais da AWS](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/87fc3cb668aa930543b920a7a79a1fe769083356/Sprint_5/Accreditation/1_TecnologiasEssenciais.md)
-2. [Serviços a Soluções](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/87fc3cb668aa930543b920a7a79a1fe769083356/Sprint_5/Accreditation/2_ServicosASolucoes.md)
-3. [Apresentação da Solução ao Cliente](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/87fc3cb668aa930543b920a7a79a1fe769083356/Sprint_5/Accreditation/3_ApresentarSolu%C3%A7%C3%A3o.md)
-4. [Recursos das Redes Parceiras](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/87fc3cb668aa930543b920a7a79a1fe769083356/Sprint_5/Accreditation/RedesParceiras.md)
+1. [Introdução as Tecnologias Essenciais da AWS](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Accreditation/1_TecnologiasEssenciais.md)
+2. [Serviços a Soluções](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Accreditation/2_ServicosASolucoes.md)
+3. [Apresentação da Solução ao Cliente](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Accreditation/3_ApresentarSolucao.md)
+4. [Recursos das Redes Parceiras](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_5/Accreditation/RedesParceiras.md)
 
 para mais informações clique em cada um dos modulos acima.
 
