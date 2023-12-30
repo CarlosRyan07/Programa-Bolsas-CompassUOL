@@ -75,6 +75,6 @@ Repositório reservado para armazenar anotações e códigos criados ao longo do
 ---
 ## Desafio
 
-1. [Desafio Final](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_10/DashboardRyan.pdf)
+![Desafio Final](https://github.com/CarlosRyan07/Programa-Bolsas-CompassUOL/blob/main/Sprint_10/Evidencias/ImagemDashboard.png)
 
 Para mais detalhes sobre ele visite a Sprint 10.
